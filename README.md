@@ -16,7 +16,7 @@ Provide details such as **vehicle age**, **kilometers driven**, **mileage**, and
 
 
 ## 📷 App Preview
-![App Screenshot](link-to-your-screenshot.png)  
+<img width="1912" height="969" alt="image" src="https://github.com/user-attachments/assets/c1ab2f16-5ad7-4ad5-bc8a-ea9a0013ecf7" />
 *(Replace `link-to-your-screenshot.png` with the image file URL from your repo)*
 
 
