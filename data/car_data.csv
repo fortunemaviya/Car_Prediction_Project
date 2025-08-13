@@ -1,0 +1,2120 @@
+car_name,brand,model,vehicle_age,km_driven,mileage,max_power,seats,selling_price
+Maruti Alto,Maruti,Alto,9,120000,19.7,46.3,5,120000
+Maruti Alto,Maruti,Alto,9,37000,20.92,67.1,5,226000
+Maruti Wagon R,Maruti,Wagon R,8,35000,18.9,67.1,5,350000
+Maruti Wagon R,Maruti,Wagon R,3,17512,20.51,67.04,5,410000
+Hyundai Venue,Hyundai,Venue,2,20000,18.15,118.35,5,1050000
+Maruti Alto,Maruti,Alto,8,25000,20.92,67.1,5,230000
+Renault KWID,Renault,KWID,4,30000,23.01,67.0,5,340000
+Maruti Wagon R,Maruti,Wagon R,2,10000,20.51,67.04,5,445000
+Maruti Wagon R,Maruti,Wagon R,3,53237,26.6,58.16,5,410000
+Datsun RediGO,Datsun,RediGO,3,27263,22.5,68.0,5,350000
+Renault KWID,Renault,KWID,5,25000,25.17,53.3,5,240000
+Maruti Wagon R,Maruti,Wagon R,7,37000,20.51,67.04,5,350000
+Maruti Alto,Maruti,Alto,8,55000,22.74,47.3,5,230000
+Maruti Celerio,Maruti,Celerio,3,5000,23.1,67.04,5,475000
+Renault KWID,Renault,KWID,3,22000,23.01,67.0,5,330000
+Maruti Wagon R,Maruti,Wagon R,5,66000,20.51,67.04,5,325000
+Hyundai Venue,Hyundai,Venue,2,25000,18.27,118.35,5,949000
+Maruti Wagon R,Maruti,Wagon R,12,98780,18.9,67.1,5,155000
+Maruti Alto,Maruti,Alto,10,30000,20.92,67.1,5,251000
+Maruti Wagon R,Maruti,Wagon R,2,50000,21.79,67.05,5,411000
+Maruti Wagon R,Maruti,Wagon R,9,57413,14.4,61.7,5,270000
+Maruti Alto,Maruti,Alto,3,20000,23.95,67.05,5,360000
+Maruti Celerio,Maruti,Celerio,1,8700,21.63,67.04,5,505000
+Maruti Alto,Maruti,Alto,2,25000,24.7,47.3,5,310000
+Maruti Wagon R,Maruti,Wagon R,10,58000,18.9,67.1,5,250000
+Maruti Wagon R,Maruti,Wagon R,3,52000,33.54,67.04,5,435000
+Maruti Celerio,Maruti,Celerio,7,35000,23.1,67.04,5,320000
+Maruti Alto,Maruti,Alto,5,10370,22.74,47.3,5,320000
+Maruti Wagon R,Maruti,Wagon R,8,64000,33.54,67.04,5,270000
+Renault KWID,Renault,KWID,4,17000,23.01,67.0,5,360000
+Maruti Alto,Maruti,Alto,4,25000,24.7,47.3,5,275000
+Maruti Wagon R,Maruti,Wagon R,6,92537,20.51,67.04,5,272000
+Maruti Alto,Maruti,Alto,8,46242,20.92,67.1,5,280000
+Renault KWID,Renault,KWID,1,6000,22.3,53.26,5,450000
+Maruti Alto,Maruti,Alto,8,26200,22.74,47.3,5,235000
+Renault KWID,Renault,KWID,3,30038,25.17,53.3,5,295000
+Renault KWID,Renault,KWID,4,35000,24.04,67.0,5,350000
+Maruti Alto,Maruti,Alto,3,12000,24.7,47.3,5,300000
+Maruti Wagon R,Maruti,Wagon R,7,21717,20.51,67.04,5,340000
+Hyundai Venue,Hyundai,Venue,2,5400,18.27,118.35,5,985000
+Maruti Alto,Maruti,Alto,16,70000,19.7,46.3,5,85000
+Maruti Alto,Maruti,Alto,5,50000,22.74,47.3,5,200000
+Maruti Wagon R,Maruti,Wagon R,3,80000,20.51,67.0,5,400000
+Maruti Wagon R,Maruti,Wagon R,6,20292,20.51,67.04,5,335000
+Renault KWID,Renault,KWID,3,25000,24.04,67.0,5,370000
+Maruti Wagon R,Maruti,Wagon R,15,70000,18.9,67.1,5,200000
+Maruti Celerio,Maruti,Celerio,4,10000,23.1,67.04,5,450000
+Maruti Alto,Maruti,Alto,12,43000,19.7,46.3,5,140000
+Maruti Wagon R,Maruti,Wagon R,7,30000,20.51,67.06,5,325000
+Maruti Celerio,Maruti,Celerio,3,28000,31.79,58.33,5,455000
+Maruti Alto,Maruti,Alto,7,65000,23.95,67.05,5,245000
+Renault KWID,Renault,KWID,3,15000,24.04,67.0,5,310000
+Ford Ecosport,Ford,Ecosport,2,15000,18.1,123.24,5,1000000
+Maruti Alto,Maruti,Alto,9,60000,20.92,67.1,5,210000
+Maruti Alto,Maruti,Alto,8,120000,22.74,47.3,5,200000
+Renault KWID,Renault,KWID,2,2500,23.01,67.0,5,400000
+Maruti Celerio,Maruti,Celerio,5,46500,23.1,67.04,5,340000
+Maruti Alto,Maruti,Alto,16,5000,19.7,46.3,5,95000
+Maruti Alto,Maruti,Alto,3,22000,24.7,47.3,5,304000
+Maruti Alto,Maruti,Alto,16,56700,19.7,46.3,5,75000
+Maruti Alto,Maruti,Alto,9,28000,19.7,46.3,5,180000
+Maruti Wagon R,Maruti,Wagon R,5,83000,26.6,58.16,5,345000
+Maruti Alto,Maruti,Alto,6,33000,22.74,47.3,5,260000
+Maruti Alto,Maruti,Alto,5,45000,30.46,47.3,5,350000
+Renault KWID,Renault,KWID,3,10103,25.17,53.3,5,325000
+Maruti Celerio,Maruti,Celerio,2,30000,23.1,67.04,5,400000
+Maruti Wagon R,Maruti,Wagon R,10,83000,18.9,67.1,5,180000
+Maruti Alto,Maruti,Alto,10,40000,19.7,46.3,5,170000
+Maruti Alto,Maruti,Alto,7,70000,23.95,67.05,5,250000
+Maruti Alto,Maruti,Alto,10,50000,20.92,67.1,5,250000
+Maruti Wagon R,Maruti,Wagon R,16,33650,18.9,67.1,5,110000
+Maruti Celerio,Maruti,Celerio,3,100000,23.1,67.04,5,450000
+Maruti Wagon R,Maruti,Wagon R,5,58000,26.2,58.2,5,275000
+Maruti Wagon R,Maruti,Wagon R,5,60000,20.51,67.04,5,380000
+Maruti Wagon R,Maruti,Wagon R,5,25000,20.51,67.04,5,380000
+Maruti Alto,Maruti,Alto,5,42000,33.44,40.3,4,260000
+Maruti Alto,Maruti,Alto,8,31000,20.92,67.1,5,230000
+Maruti Alto,Maruti,Alto,5,71000,24.7,47.3,5,299000
+Hyundai Venue,Hyundai,Venue,2,27594,18.27,118.35,5,995000
+Maruti Alto,Maruti,Alto,10,11266,20.92,67.1,5,235000
+Renault KWID,Renault,KWID,5,41000,25.17,53.3,5,235000
+Maruti Wagon R,Maruti,Wagon R,6,120000,20.51,67.04,5,300000
+Renault KWID,Renault,KWID,5,50000,25.17,53.3,5,250000
+Renault KWID,Renault,KWID,3,10000,23.01,67.0,5,350000
+Maruti Wagon R,Maruti,Wagon R,4,70000,20.51,67.04,5,360000
+Maruti Wagon R,Maruti,Wagon R,17,50000,18.9,67.1,5,62000
+Datsun RediGO,Datsun,RediGO,3,20000,22.7,53.64,5,210000
+Maruti Alto,Maruti,Alto,5,50000,24.7,47.3,5,220000
+Maruti Alto,Maruti,Alto,1,5000,22.05,47.3,5,350000
+Renault KWID,Renault,KWID,2,25000,25.17,53.3,5,300000
+Maruti Alto,Maruti,Alto,11,100000,20.92,67.1,5,168000
+Renault KWID,Renault,KWID,2,10000,24.04,67.0,5,400000
+Maruti Alto,Maruti,Alto,9,41321,19.7,46.3,5,185000
+Maruti Wagon R,Maruti,Wagon R,12,113000,21.79,67.05,5,135000
+Maruti Wagon R,Maruti,Wagon R,14,63000,21.79,67.05,5,120000
+Maruti Celerio,Maruti,Celerio,3,18000,21.63,67.0,5,460000
+Maruti Alto,Maruti,Alto,10,35000,20.92,67.1,5,220000
+Renault Triber,Renault,Triber,1,1784,20.0,71.0,7,660000
+Maruti Alto,Maruti,Alto,8,76000,20.92,67.1,5,211000
+Maruti Alto,Maruti,Alto,10,55780,20.92,67.1,5,220000
+Maruti Alto,Maruti,Alto,14,52235,19.7,46.3,5,110000
+Maruti Alto,Maruti,Alto,9,37000,20.92,67.1,5,250000
+Datsun RediGO,Datsun,RediGO,4,40000,22.5,67.0,5,295000
+Renault KWID,Renault,KWID,3,22000,23.01,67.0,5,306000
+Maruti Celerio,Maruti,Celerio,5,62000,23.1,67.04,5,415000
+Maruti Alto,Maruti,Alto,5,10000,23.95,67.05,5,315000
+Hyundai Venue,Hyundai,Venue,2,34000,18.15,118.35,5,1050000
+Maruti Alto,Maruti,Alto,16,120000,19.7,46.3,5,95000
+Maruti Alto,Maruti,Alto,16,40000,19.7,46.3,5,121000
+Maruti Alto,Maruti,Alto,6,20000,23.95,67.05,5,275000
+Maruti Celerio,Maruti,Celerio,3,24000,21.63,67.04,5,495000
+Datsun RediGO,Datsun,RediGO,3,30000,22.5,67.0,5,270000
+Maruti Wagon R,Maruti,Wagon R,8,67000,32.52,58.33,5,260000
+Maruti Alto,Maruti,Alto,5,10000,23.95,67.05,5,300000
+Maruti Alto,Maruti,Alto,7,14971,22.74,47.3,5,230000
+Maruti Wagon R,Maruti,Wagon R,7,50000,20.51,67.04,5,350000
+Maruti Wagon R,Maruti,Wagon R,6,38546,20.51,67.04,5,330000
+Maruti Alto,Maruti,Alto,17,80000,19.7,46.3,5,80000
+Renault KWID,Renault,KWID,4,40000,23.01,67.0,5,260000
+Maruti Alto,Maruti,Alto,18,120000,19.7,46.3,5,65000
+Renault KWID,Renault,KWID,4,10000,24.04,67.0,5,341000
+Maruti Alto,Maruti,Alto,2,10300,24.7,47.3,5,300000
+Maruti Alto,Maruti,Alto,5,25000,23.95,67.05,5,350000
+Maruti Alto,Maruti,Alto,6,90000,22.74,47.3,5,200000
+Maruti Wagon R,Maruti,Wagon R,9,59000,18.9,67.1,5,300000
+Maruti Wagon R,Maruti,Wagon R,3,45874,26.6,58.16,5,357000
+Maruti Wagon R,Maruti,Wagon R,7,50000,20.51,67.04,5,295000
+Maruti S-Presso,Maruti,S-Presso,2,8400,21.7,67.0,5,420000
+Maruti Celerio,Maruti,Celerio,7,9000,23.1,67.04,5,360000
+Maruti Celerio,Maruti,Celerio,6,17000,23.1,67.04,5,425000
+Maruti Alto,Maruti,Alto,18,90000,19.7,46.3,5,80000
+Maruti Alto,Maruti,Alto,5,30000,22.74,47.3,5,225000
+Maruti Wagon R,Maruti,Wagon R,6,114183,21.79,67.05,5,350000
+Maruti Wagon R,Maruti,Wagon R,10,53000,20.51,67.04,5,275000
+Datsun RediGO,Datsun,RediGO,2,10000,22.7,53.64,5,260000
+Maruti Wagon R,Maruti,Wagon R,14,80000,21.79,67.05,5,85000
+Maruti Alto,Maruti,Alto,16,120000,19.7,46.3,5,90000
+Maruti Alto,Maruti,Alto,7,34000,23.95,67.05,5,251000
+Datsun RediGO,Datsun,RediGO,5,10000,22.7,53.64,5,245000
+Maruti Alto,Maruti,Alto,8,47000,20.92,67.1,5,280000
+Maruti Wagon R,Maruti,Wagon R,9,100000,18.9,67.1,5,225000
+Maruti Alto,Maruti,Alto,7,52000,23.95,67.05,5,244000
+Maruti Alto,Maruti,Alto,7,50080,22.74,47.3,5,225000
+Maruti Celerio,Maruti,Celerio,4,20000,23.1,67.04,5,450000
+Maruti Wagon R,Maruti,Wagon R,3,50000,20.51,67.04,5,400000
+Maruti Alto,Maruti,Alto,2,12955,23.95,67.1,5,375000
+Maruti Celerio,Maruti,Celerio,2,10000,23.1,67.04,5,480000
+Maruti Wagon R,Maruti,Wagon R,3,16631,20.51,67.04,5,410000
+Maruti Wagon R,Maruti,Wagon R,8,58000,18.9,67.1,5,248000
+Maruti Alto,Maruti,Alto,11,43000,19.7,46.3,5,170000
+Maruti Wagon R,Maruti,Wagon R,9,16000,18.9,67.1,5,400000
+Maruti Wagon R,Maruti,Wagon R,5,26000,18.9,67.1,5,375000
+Maruti Alto,Maruti,Alto,9,10000,20.92,67.1,5,225000
+Renault KWID,Renault,KWID,4,30000,25.17,53.3,5,300000
+Maruti Alto,Maruti,Alto,5,120000,22.74,47.3,5,198000
+Maruti Alto,Maruti,Alto,5,50000,22.74,47.3,5,235000
+Renault KWID,Renault,KWID,3,20000,23.01,67.0,5,367000
+Maruti Alto,Maruti,Alto,8,70000,20.92,67.1,5,220000
+Maruti Wagon R,Maruti,Wagon R,3,60000,20.51,67.04,5,375000
+Maruti Alto,Maruti,Alto,9,24943,23.95,67.05,5,235000
+Maruti Wagon R,Maruti,Wagon R,3,25000,20.51,67.04,5,400000
+Maruti Wagon R,Maruti,Wagon R,9,20000,18.9,67.1,5,230000
+Renault Triber,Renault,Triber,2,10000,20.0,72.0,7,550000
+Maruti Alto,Maruti,Alto,7,35000,22.74,47.3,5,250000
+Maruti Alto,Maruti,Alto,17,80000,19.7,46.3,5,77000
+Maruti Celerio,Maruti,Celerio,2,50000,21.63,67.0,5,500000
+Maruti Celerio,Maruti,Celerio,7,110000,23.1,67.04,5,250000
+Maruti Alto,Maruti,Alto,15,30000,19.7,46.3,5,135000
+Maruti Celerio,Maruti,Celerio,7,76000,23.1,67.04,5,315000
+Maruti Alto,Maruti,Alto,6,35100,23.95,67.05,5,290000
+Maruti Alto,Maruti,Alto,13,97000,19.7,46.3,5,95000
+Maruti Alto,Maruti,Alto,10,39513,23.95,67.05,5,200000
+Maruti Wagon R,Maruti,Wagon R,6,50000,20.51,67.04,5,400000
+Renault KWID,Renault,KWID,5,80000,25.17,53.3,5,250000
+Hyundai Venue,Hyundai,Venue,2,3800,18.27,118.35,5,950000
+Maruti Celerio,Maruti,Celerio,4,25000,23.1,67.04,5,345000
+Renault KWID,Renault,KWID,5,25000,23.01,67.0,5,300000
+Maruti Wagon R,Maruti,Wagon R,10,64000,26.2,58.2,5,225000
+Maruti Alto,Maruti,Alto,7,75001,19.7,46.3,5,175000
+Maruti Wagon R,Maruti,Wagon R,4,32013,33.54,67.04,5,380000
+Maruti Alto,Maruti,Alto,7,70000,20.92,67.1,5,245000
+Maruti Wagon R,Maruti,Wagon R,6,15000,20.51,67.04,5,350000
+Maruti Celerio,Maruti,Celerio,7,23970,23.1,67.04,5,350000
+Maruti Wagon R,Maruti,Wagon R,9,120000,26.2,58.2,5,260000
+Maruti Wagon R,Maruti,Wagon R,6,15000,20.51,67.04,5,300000
+Maruti Wagon R,Maruti,Wagon R,9,95000,26.6,58.16,5,190000
+Maruti Wagon R,Maruti,Wagon R,2,15000,21.79,67.05,5,475000
+Maruti Alto,Maruti,Alto,11,83000,19.7,46.3,5,190000
+Maruti Wagon R,Maruti,Wagon R,11,61000,20.51,67.04,5,195000
+Maruti Alto,Maruti,Alto,1,10000,22.05,47.3,5,370000
+Maruti Alto,Maruti,Alto,3,20000,24.7,47.3,5,310000
+Maruti Celerio,Maruti,Celerio,6,49955,21.63,67.04,5,400000
+Maruti Wagon R,Maruti,Wagon R,3,15000,20.51,67.0,5,450000
+Maruti Wagon R,Maruti,Wagon R,6,60000,20.51,67.04,5,325000
+Maruti Alto,Maruti,Alto,4,10000,24.7,47.3,5,260000
+Maruti Alto,Maruti,Alto,11,48156,19.7,46.3,5,135000
+Maruti Wagon R,Maruti,Wagon R,13,58000,18.9,67.1,5,125000
+Datsun RediGO,Datsun,RediGO,4,15000,22.5,67.0,5,300000
+Maruti Celerio,Maruti,Celerio,4,30000,27.62,47.0,5,350000
+Maruti Alto,Maruti,Alto,4,14400,23.95,67.05,5,320000
+Renault KWID,Renault,KWID,2,5700,23.01,67.0,5,360000
+Maruti Wagon R,Maruti,Wagon R,5,120000,20.51,67.04,5,290000
+Maruti Wagon R,Maruti,Wagon R,9,60000,18.9,67.1,5,250000
+Maruti Alto,Maruti,Alto,11,35760,23.95,67.05,5,205000
+Maruti Wagon R,Maruti,Wagon R,5,30000,20.51,67.04,5,340000
+Maruti Wagon R,Maruti,Wagon R,14,80000,20.51,67.04,5,85000
+Maruti Alto,Maruti,Alto,3,40000,24.7,47.3,5,270000
+Maruti Wagon R,Maruti,Wagon R,4,50000,26.6,58.16,5,400000
+Volkswagen Polo,Volkswagen,Polo,8,48000,18.78,75.0,5,325000
+Maruti Celerio,Maruti,Celerio,3,15978,23.1,67.04,5,465000
+Maruti Wagon R,Maruti,Wagon R,7,89000,32.52,58.33,5,310000
+Maruti Wagon R,Maruti,Wagon R,7,41123,20.51,67.04,5,385000
+Maruti Wagon R,Maruti,Wagon R,6,55000,33.54,67.04,5,335000
+Maruti Celerio,Maruti,Celerio,4,15000,23.1,67.04,5,440000
+Datsun RediGO,Datsun,RediGO,2,14322,22.7,53.64,5,315000
+Maruti Wagon R,Maruti,Wagon R,5,29000,20.51,67.0,5,450000
+Renault KWID,Renault,KWID,5,95518,23.01,67.0,5,295000
+Maruti Wagon R,Maruti,Wagon R,7,25978,18.9,67.1,5,325000
+Maruti Celerio,Maruti,Celerio,4,25000,23.1,67.04,5,500000
+Maruti Celerio,Maruti,Celerio,7,66000,31.79,58.2,5,360000
+Maruti Wagon R,Maruti,Wagon R,12,87000,18.9,67.1,5,200000
+Datsun RediGO,Datsun,RediGO,2,10000,22.7,53.64,5,320000
+Renault KWID,Renault,KWID,4,19000,24.04,67.0,5,365000
+Maruti Wagon R,Maruti,Wagon R,5,41224,26.6,58.16,5,395000
+Datsun RediGO,Datsun,RediGO,4,45000,22.5,67.0,5,255000
+Maruti Wagon R,Maruti,Wagon R,6,56000,20.51,67.04,5,395000
+Maruti Alto,Maruti,Alto,5,60000,22.74,47.3,5,264000
+Maruti Celerio,Maruti,Celerio,5,52250,23.1,67.04,5,395000
+Maruti Alto,Maruti,Alto,10,52349,20.92,67.1,5,214000
+Renault KWID,Renault,KWID,5,21445,25.17,53.3,5,345000
+Maruti Alto,Maruti,Alto,9,53800,26.83,38.4,5,235000
+Datsun redi-GO,Datsun,redi-GO,3,5986,22.0,67.05,5,375000
+Maruti Alto,Maruti,Alto,9,43000,19.7,46.3,5,230000
+Maruti Alto,Maruti,Alto,13,80000,19.7,46.3,5,135000
+Maruti Alto,Maruti,Alto,12,46000,19.7,46.3,5,150000
+Maruti Wagon R,Maruti,Wagon R,9,42710,18.9,67.1,5,285000
+Maruti Wagon R,Maruti,Wagon R,7,43000,20.51,67.04,5,380000
+Maruti Alto,Maruti,Alto,6,70000,22.74,47.3,5,210000
+Maruti Alto,Maruti,Alto,6,34000,22.74,47.3,5,255000
+Maruti Alto,Maruti,Alto,12,25000,19.7,46.3,5,155000
+Renault KWID,Renault,KWID,4,33000,23.01,67.0,5,360000
+Maruti Wagon R,Maruti,Wagon R,12,23710,18.9,67.1,5,190000
+Renault KWID,Renault,KWID,3,36000,24.04,67.0,5,395000
+Maruti Celerio,Maruti,Celerio,4,15500,23.1,67.04,5,485000
+Maruti Wagon R,Maruti,Wagon R,6,50000,26.6,58.16,5,450000
+Ford Ecosport,Ford,Ecosport,6,39720,18.88,123.24,5,650000
+Maruti Wagon R,Maruti,Wagon R,13,55000,21.79,67.05,5,175000
+Maruti Wagon R,Maruti,Wagon R,16,138008,18.9,67.1,5,110000
+Maruti Celerio,Maruti,Celerio,5,16000,23.1,67.04,5,445000
+Renault KWID,Renault,KWID,5,35000,25.17,53.3,5,299000
+Maruti Wagon R,Maruti,Wagon R,4,17745,20.51,67.04,5,500000
+Maruti Celerio,Maruti,Celerio,5,36000,23.1,67.04,5,450000
+Maruti Wagon R,Maruti,Wagon R,5,60000,20.51,67.04,5,350000
+Maruti Wagon R,Maruti,Wagon R,10,75000,26.6,58.16,5,275000
+Maruti Alto,Maruti,Alto,7,45000,23.95,67.05,5,250000
+Volkswagen Polo,Volkswagen,Polo,3,14000,18.24,108.62,5,655000
+Renault KWID,Renault,KWID,4,15000,25.17,53.3,5,350000
+Renault KWID,Renault,KWID,4,16000,23.01,67.0,5,315000
+Maruti Alto,Maruti,Alto,12,60000,19.7,46.3,5,125000
+Maruti Wagon R,Maruti,Wagon R,8,83000,18.9,67.1,5,335000
+Maruti Wagon R,Maruti,Wagon R,6,40000,20.51,67.04,5,350000
+Maruti Alto,Maruti,Alto,4,34153,24.7,47.3,5,320000
+Maruti Wagon R,Maruti,Wagon R,10,48000,18.9,67.1,5,235000
+Maruti Wagon R,Maruti,Wagon R,8,60000,20.51,67.04,5,260000
+Maruti Wagon R,Maruti,Wagon R,8,62500,21.79,67.05,5,300000
+Maruti Alto,Maruti,Alto,4,90000,24.7,47.3,5,255000
+Maruti Wagon R,Maruti,Wagon R,8,55149,20.51,67.04,5,311000
+Maruti Celerio,Maruti,Celerio,4,66000,31.79,58.2,5,450000
+Renault KWID,Renault,KWID,3,10000,23.01,67.0,5,385000
+Maruti Alto,Maruti,Alto,10,69000,19.7,46.3,5,140000
+Maruti Wagon R,Maruti,Wagon R,5,51000,26.6,58.16,5,375000
+Maruti Wagon R,Maruti,Wagon R,11,57000,18.9,67.1,5,211000
+Maruti Alto,Maruti,Alto,2,7602,23.95,67.05,5,425000
+Maruti Alto,Maruti,Alto,13,30000,19.7,46.3,5,175000
+Maruti Wagon R,Maruti,Wagon R,8,50287,20.51,67.04,5,360000
+Renault KWID,Renault,KWID,4,54000,24.04,67.0,5,345000
+Maruti Alto,Maruti,Alto,4,9210,24.7,47.3,5,310000
+Maruti Celerio,Maruti,Celerio,2,18000,23.1,67.04,5,445000
+Maruti Wagon R,Maruti,Wagon R,7,101200,18.9,67.1,5,380000
+Maruti Alto,Maruti,Alto,11,50000,19.7,46.3,5,140000
+Datsun RediGO,Datsun,RediGO,3,15000,22.7,53.64,5,340000
+Hyundai Venue,Hyundai,Venue,1,3200,18.15,118.35,5,1240000
+Volkswagen Polo,Volkswagen,Polo,3,15000,18.78,75.0,5,595000
+Hyundai Venue,Hyundai,Venue,2,16000,18.27,118.35,5,975000
+Renault KWID,Renault,KWID,5,37250,25.17,53.3,5,325000
+Maruti Alto,Maruti,Alto,5,13000,23.95,67.05,5,299000
+Maruti Alto,Maruti,Alto,5,23774,23.95,67.05,5,335000
+Maruti Alto,Maruti,Alto,10,38643,20.92,67.1,5,180000
+Maruti Alto,Maruti,Alto,10,53000,23.95,67.05,5,235000
+Maruti Alto,Maruti,Alto,9,120000,22.74,47.3,5,140000
+Maruti Wagon R,Maruti,Wagon R,4,18000,20.51,67.0,5,475000
+Maruti Wagon R,Maruti,Wagon R,10,120000,26.2,58.2,5,200000
+Maruti Alto,Maruti,Alto,5,28000,23.95,67.1,5,350000
+Maruti Alto,Maruti,Alto,5,26000,30.46,47.3,5,280000
+Maruti Celerio,Maruti,Celerio,5,43782,23.1,67.04,5,425000
+Maruti Wagon R,Maruti,Wagon R,4,15000,20.51,67.0,5,505000
+Maruti Wagon R,Maruti,Wagon R,7,34000,20.51,67.04,5,325000
+Maruti Alto,Maruti,Alto,8,60000,22.74,47.3,5,180000
+Maruti Wagon R,Maruti,Wagon R,6,48000,26.6,58.16,5,325000
+Maruti Alto,Maruti,Alto,11,69000,20.92,67.1,5,150000
+Maruti Alto,Maruti,Alto,5,65000,22.74,47.3,5,285000
+Maruti Celerio,Maruti,Celerio,5,16393,21.63,67.04,5,450000
+Maruti Wagon R,Maruti,Wagon R,7,87500,26.2,58.2,5,340000
+Maruti Wagon R,Maruti,Wagon R,5,30000,20.51,67.0,5,425000
+Maruti Celerio,Maruti,Celerio,2,19000,30.47,58.33,5,529000
+Maruti Alto,Maruti,Alto,4,33000,24.7,47.3,5,330000
+Maruti Alto,Maruti,Alto,11,70000,20.92,67.1,5,180000
+Renault KWID,Renault,KWID,4,36000,24.04,67.0,5,411000
+Maruti Alto,Maruti,Alto,7,62485,22.74,47.3,5,260000
+Maruti Wagon R,Maruti,Wagon R,9,30000,18.9,67.1,5,300000
+Maruti Wagon R,Maruti,Wagon R,8,57000,32.52,58.33,5,265000
+Renault KWID,Renault,KWID,3,15000,25.17,53.3,5,331000
+Maruti Wagon R,Maruti,Wagon R,7,44000,20.51,67.04,5,325000
+Maruti Wagon R,Maruti,Wagon R,9,80000,18.9,67.1,5,275000
+Maruti Wagon R,Maruti,Wagon R,6,33766,20.51,67.04,5,372000
+Maruti Celerio,Maruti,Celerio,7,91000,31.79,58.2,5,310000
+Maruti Alto,Maruti,Alto,10,50000,19.7,46.3,5,185000
+Maruti Wagon R,Maruti,Wagon R,10,48000,21.79,67.05,5,245000
+Maruti Wagon R,Maruti,Wagon R,5,22000,26.6,58.16,5,415000
+Maruti Alto,Maruti,Alto,5,9223,22.74,47.3,5,300000
+Renault KWID,Renault,KWID,4,35000,24.04,67.0,5,349000
+Maruti Alto,Maruti,Alto,4,27000,24.7,47.3,5,290000
+Maruti Wagon R,Maruti,Wagon R,9,62000,33.54,67.04,5,340000
+Maruti Wagon R,Maruti,Wagon R,7,27066,21.79,67.05,5,325000
+Maruti Alto,Maruti,Alto,3,20000,23.95,67.05,5,375000
+Maruti Alto,Maruti,Alto,6,90145,22.74,47.3,5,290000
+Maruti Alto,Maruti,Alto,10,70000,20.92,67.1,5,180000
+Renault KWID,Renault,KWID,3,15300,23.01,67.0,5,411000
+Renault KWID,Renault,KWID,4,11000,24.04,67.0,5,400000
+Maruti Wagon R,Maruti,Wagon R,8,40200,18.9,67.1,5,325000
+Maruti Wagon R,Maruti,Wagon R,7,135975,33.54,67.04,5,295000
+Maruti Alto,Maruti,Alto,10,72000,19.7,46.3,5,185000
+Maruti Celerio,Maruti,Celerio,4,22000,23.1,67.04,5,475000
+Maruti Wagon R,Maruti,Wagon R,9,63000,26.2,58.2,5,295000
+Maruti Wagon R,Maruti,Wagon R,8,40000,18.9,67.1,5,320000
+Renault KWID,Renault,KWID,4,18000,23.01,67.0,5,315000
+Maruti Wagon R,Maruti,Wagon R,8,63000,33.54,67.04,5,351000
+Maruti Wagon R,Maruti,Wagon R,8,43779,20.51,67.04,5,320000
+Maruti Wagon R,Maruti,Wagon R,5,72829,21.79,67.05,5,400000
+Maruti Alto,Maruti,Alto,11,67789,19.7,46.3,5,175000
+Maruti Alto,Maruti,Alto,4,15798,23.95,67.05,5,365000
+Maruti S-Presso,Maruti,S-Presso,2,3000,21.7,67.0,5,432000
+Renault KWID,Renault,KWID,5,25000,25.17,53.3,5,270000
+Maruti Wagon R,Maruti,Wagon R,4,51000,20.51,67.0,5,450000
+Maruti S-Presso,Maruti,S-Presso,2,8500,21.7,67.0,5,430000
+Maruti Alto,Maruti,Alto,4,5914,23.95,67.05,5,345000
+Maruti Wagon R,Maruti,Wagon R,10,50000,26.2,58.2,5,225000
+Maruti Wagon R,Maruti,Wagon R,5,30000,26.2,58.2,5,375000
+Maruti Wagon R,Maruti,Wagon R,3,15000,20.51,67.04,5,480000
+Maruti Alto,Maruti,Alto,5,24000,22.74,47.3,5,275000
+Maruti Wagon R,Maruti,Wagon R,14,35986,18.9,67.1,5,150000
+Maruti Celerio,Maruti,Celerio,7,33231,23.1,67.04,5,375000
+Maruti Alto,Maruti,Alto,4,6808,23.95,67.05,5,369000
+Maruti Alto,Maruti,Alto,6,19074,22.74,47.3,5,275000
+Maruti Alto,Maruti,Alto,4,70000,24.07,67.1,5,300000
+Maruti Alto,Maruti,Alto,7,16600,22.74,47.3,5,265000
+Renault KWID,Renault,KWID,4,19000,25.17,53.3,5,335000
+Renault KWID,Renault,KWID,4,19200,24.04,67.0,5,349000
+Renault KWID,Renault,KWID,4,20000,23.01,67.0,5,350000
+Maruti Alto,Maruti,Alto,15,15000,19.7,46.3,5,120000
+Maruti Celerio,Maruti,Celerio,3,30700,21.63,67.0,5,521000
+Maruti Alto,Maruti,Alto,29,22612,22.05,47.3,5,60000
+Renault KWID,Renault,KWID,3,10000,23.01,67.0,5,350000
+Maruti Alto,Maruti,Alto,7,40000,22.74,47.3,5,166000
+Renault KWID,Renault,KWID,6,45006,25.17,53.3,5,269000
+Maruti Alto,Maruti,Alto,5,20000,23.95,67.05,5,315000
+Maruti Wagon R,Maruti,Wagon R,7,61000,20.51,67.04,5,350000
+Maruti Alto,Maruti,Alto,6,70000,22.74,47.3,5,240000
+Maruti Alto,Maruti,Alto,3,5917,23.95,67.05,5,371000
+Renault KWID,Renault,KWID,5,7000,22.3,53.26,5,325000
+Renault KWID,Renault,KWID,3,42000,23.01,67.0,5,400000
+Ford Ecosport,Ford,Ecosport,8,56260,18.88,123.37,5,499000
+Maruti Wagon R,Maruti,Wagon R,14,115000,21.79,67.05,5,110000
+Maruti Alto,Maruti,Alto,13,50000,19.7,46.3,5,145000
+Renault KWID,Renault,KWID,4,8560,24.04,67.0,5,371000
+Maruti Wagon R,Maruti,Wagon R,6,39983,21.79,67.05,5,425000
+Maruti Wagon R,Maruti,Wagon R,6,40000,20.51,67.04,5,450000
+Ford Ecosport,Ford,Ecosport,7,44406,18.88,123.24,5,650000
+Datsun RediGO,Datsun,RediGO,4,20000,22.5,67.0,5,271000
+Maruti Wagon R,Maruti,Wagon R,11,75008,18.9,67.1,5,240000
+Maruti Alto,Maruti,Alto,7,56332,23.95,67.05,5,285000
+Maruti Celerio,Maruti,Celerio,6,36000,31.79,58.2,5,422000
+Maruti Wagon R,Maruti,Wagon R,8,55853,33.54,67.04,5,349000
+Maruti Wagon R,Maruti,Wagon R,8,58288,26.2,58.2,5,350000
+Maruti Wagon R,Maruti,Wagon R,11,49000,18.9,67.1,5,220000
+Datsun RediGO,Datsun,RediGO,4,23000,22.7,53.64,5,310000
+Maruti Alto,Maruti,Alto,12,55274,19.7,46.3,5,145000
+Maruti Alto,Maruti,Alto,8,70000,20.2,67.1,5,230000
+Maruti Alto,Maruti,Alto,4,10617,24.7,47.3,5,314000
+Maruti Alto,Maruti,Alto,4,9122,24.7,47.3,5,323000
+Renault KWID,Renault,KWID,5,51000,21.74,67.0,5,315000
+Maruti Celerio,Maruti,Celerio,5,70000,23.1,67.04,5,375000
+Maruti Celerio,Maruti,Celerio,3,9522,21.63,67.05,5,550000
+Maruti Celerio,Maruti,Celerio,3,22000,21.63,67.05,5,455000
+Maruti Alto,Maruti,Alto,3,17000,24.7,47.3,5,345000
+Maruti Wagon R,Maruti,Wagon R,5,50000,20.51,67.0,5,425000
+Maruti Wagon R,Maruti,Wagon R,3,23000,20.51,67.0,5,465000
+Renault KWID,Renault,KWID,5,25600,25.17,53.3,5,280000
+Maruti Alto,Maruti,Alto,12,67833,19.7,46.3,5,175000
+Maruti Baleno,Maruti,Baleno,4,30726,21.1,100.0,5,659000
+Renault KWID,Renault,KWID,3,10000,23.01,67.0,5,375000
+Maruti Alto,Maruti,Alto,7,40000,22.74,47.3,5,230000
+Maruti Celerio,Maruti,Celerio,4,18400,21.63,67.04,5,485000
+Maruti Wagon R,Maruti,Wagon R,8,77000,26.6,58.16,5,335000
+Maruti Alto,Maruti,Alto,11,29000,19.7,46.3,5,175000
+Maruti Alto,Maruti,Alto,5,49000,22.74,47.3,5,300000
+Renault KWID,Renault,KWID,4,35500,25.17,53.3,5,295000
+Renault KWID,Renault,KWID,5,35000,25.17,53.3,5,250000
+Maruti Wagon R,Maruti,Wagon R,3,32000,33.54,67.04,5,485000
+Ford Ecosport,Ford,Ecosport,6,78000,18.88,123.37,5,635000
+Maruti Wagon R,Maruti,Wagon R,5,70000,20.51,67.0,5,420000
+Maruti Alto,Maruti,Alto,5,25603,22.74,47.3,5,291000
+Maruti Wagon R,Maruti,Wagon R,5,22756,21.79,67.05,5,421000
+Maruti Alto,Maruti,Alto,15,80000,19.7,46.3,5,60000
+Maruti Alto,Maruti,Alto,13,30008,19.7,46.3,5,175000
+Maruti Alto,Maruti,Alto,11,53503,19.7,46.3,5,175000
+Maruti Alto,Maruti,Alto,10,9000,19.7,46.3,5,160000
+Renault Triber,Renault,Triber,2,10000,20.0,72.0,7,660000
+Maruti Alto,Maruti,Alto,3,35000,23.95,67.1,5,350000
+Renault KWID,Renault,KWID,3,15235,23.01,67.0,5,410000
+Maruti Alto,Maruti,Alto,6,17000,23.95,67.1,5,320000
+Renault KWID,Renault,KWID,4,20966,25.17,53.3,5,349000
+Maruti Celerio,Maruti,Celerio,4,55001,23.1,67.04,5,485000
+Maruti Celerio,Maruti,Celerio,4,39400,31.79,58.2,5,475000
+Renault KWID,Renault,KWID,2,5000,25.17,53.3,5,350000
+Maruti Wagon R,Maruti,Wagon R,4,18000,20.51,67.04,5,475000
+Renault KWID,Renault,KWID,3,20000,25.17,53.3,5,365000
+Ford Ecosport,Ford,Ecosport,7,63000,18.88,123.37,5,535000
+Renault KWID,Renault,KWID,3,25000,25.17,53.3,5,330000
+Renault KWID,Renault,KWID,2,40000,25.17,53.3,5,325000
+Renault KWID,Renault,KWID,5,40000,25.17,53.3,5,220000
+Maruti Wagon R,Maruti,Wagon R,5,42000,20.51,67.0,5,445000
+Maruti Celerio,Maruti,Celerio,6,36000,23.1,67.04,5,430000
+Maruti Alto,Maruti,Alto,15,83000,19.7,46.3,5,95000
+Maruti Alto,Maruti,Alto,5,47233,23.95,67.1,5,300000
+Maruti Alto,Maruti,Alto,17,58000,19.7,46.3,5,111000
+Renault KWID,Renault,KWID,5,19000,22.3,53.26,5,324000
+Renault KWID,Renault,KWID,5,21200,22.3,53.26,5,345000
+Maruti Wagon R,Maruti,Wagon R,3,50000,26.6,58.16,5,434000
+Renault KWID,Renault,KWID,4,15000,25.17,53.3,5,350000
+Maruti Alto,Maruti,Alto,9,17000,20.92,67.1,5,180000
+Maruti Wagon R,Maruti,Wagon R,6,48000,32.52,58.33,5,365000
+Maruti Alto,Maruti,Alto,3,40737,22.74,47.3,5,325000
+Maruti Alto,Maruti,Alto,12,22000,19.7,46.3,5,140000
+Maruti Alto,Maruti,Alto,11,11000,26.83,38.4,5,185000
+Maruti Celerio,Maruti,Celerio,7,76000,23.1,67.04,5,325000
+Maruti Wagon R,Maruti,Wagon R,8,50000,20.51,67.04,5,292000
+Maruti Alto,Maruti,Alto,6,20000,23.95,67.05,5,300000
+Renault KWID,Renault,KWID,1,5000,24.04,67.0,5,400000
+Maruti Alto,Maruti,Alto,5,29000,22.74,47.3,5,285000
+Maruti Wagon R,Maruti,Wagon R,5,64224,33.54,67.04,5,375000
+Maruti Wagon R,Maruti,Wagon R,9,65000,18.9,67.1,5,265000
+Maruti Wagon R,Maruti,Wagon R,9,84000,18.9,67.1,5,215000
+Maruti Celerio,Maruti,Celerio,2,20000,23.1,67.04,5,520000
+Maruti Alto,Maruti,Alto,11,40000,20.92,67.1,5,250000
+Datsun RediGO,Datsun,RediGO,3,16500,22.7,53.64,5,290000
+Maruti Wagon R,Maruti,Wagon R,7,84000,20.51,67.04,5,350000
+Renault KWID,Renault,KWID,3,9800,24.04,67.0,5,415000
+Maruti Alto,Maruti,Alto,6,66000,23.95,67.05,5,325000
+Maruti Wagon R,Maruti,Wagon R,9,50000,18.9,67.1,5,250000
+Maruti Wagon R,Maruti,Wagon R,7,40000,20.51,67.04,5,400000
+Maruti Wagon R,Maruti,Wagon R,5,39000,20.51,67.04,5,420000
+Renault KWID,Renault,KWID,4,17000,24.04,67.0,5,385000
+Maruti Celerio,Maruti,Celerio,6,80000,23.1,67.04,5,450000
+Renault KWID,Renault,KWID,2,10695,23.01,67.0,5,395000
+Maruti Wagon R,Maruti,Wagon R,4,24000,20.51,67.04,5,450000
+Maruti Alto,Maruti,Alto,10,80000,20.92,67.1,5,250000
+Maruti Wagon R,Maruti,Wagon R,5,49000,26.6,58.16,5,365000
+Maruti Wagon R,Maruti,Wagon R,9,51000,18.9,67.1,5,200000
+Maruti Wagon R,Maruti,Wagon R,3,36274,26.6,58.16,5,455000
+Maruti Wagon R,Maruti,Wagon R,10,50000,20.51,67.04,5,275000
+Renault KWID,Renault,KWID,5,50700,23.01,67.0,5,340000
+Datsun RediGO,Datsun,RediGO,5,79000,22.7,53.64,5,235000
+Datsun RediGO,Datsun,RediGO,4,75000,22.7,53.0,5,285000
+Maruti Wagon R,Maruti,Wagon R,4,37000,26.6,58.16,5,415000
+Maruti Celerio,Maruti,Celerio,5,14286,23.1,67.04,5,395000
+Maruti Alto,Maruti,Alto,3,23150,23.95,67.1,5,394000
+Maruti Wagon R,Maruti,Wagon R,11,48300,18.9,67.1,5,240000
+Maruti Wagon R,Maruti,Wagon R,8,39757,20.51,67.04,5,298000
+Maruti Wagon R,Maruti,Wagon R,6,52606,18.9,67.1,5,370000
+Maruti Alto,Maruti,Alto,14,17000,19.7,46.3,5,145000
+Maruti Alto,Maruti,Alto,10,49100,19.7,46.3,5,155000
+Maruti Wagon R,Maruti,Wagon R,5,15680,20.51,67.04,5,451000
+Maruti Wagon R,Maruti,Wagon R,10,29000,21.79,67.05,5,260000
+Maruti Wagon R,Maruti,Wagon R,5,36100,26.6,58.16,5,414000
+Renault KWID,Renault,KWID,4,15000,23.01,67.0,5,330000
+Maruti Alto,Maruti,Alto,7,28000,33.44,40.3,4,281000
+Volkswagen Polo,Volkswagen,Polo,3,17000,18.78,75.0,5,635000
+Renault KWID,Renault,KWID,3,50000,25.17,53.3,5,350000
+Renault KWID,Renault,KWID,3,45000,25.17,53.3,5,350000
+Renault KWID,Renault,KWID,4,20000,25.17,53.3,5,375000
+Maruti Alto,Maruti,Alto,6,30000,23.95,67.1,5,350000
+Maruti Wagon R,Maruti,Wagon R,7,35000,20.51,67.04,5,370000
+Maruti Alto,Maruti,Alto,7,48828,22.74,47.3,5,275000
+Renault KWID,Renault,KWID,2,27000,24.04,67.0,5,460000
+Maruti Wagon R,Maruti,Wagon R,7,56795,26.2,58.2,5,340000
+Maruti Alto,Maruti,Alto,13,60000,19.7,46.3,5,150000
+Renault KWID,Renault,KWID,6,60000,23.01,67.0,5,315000
+Maruti Celerio,Maruti,Celerio,5,36836,23.1,67.04,5,460000
+Maruti Alto,Maruti,Alto,10,20000,19.7,46.3,5,170000
+Maruti Alto,Maruti,Alto,9,33700,20.92,67.1,5,200000
+Maruti Wagon R,Maruti,Wagon R,3,27000,20.51,67.0,5,550000
+Maruti Wagon R,Maruti,Wagon R,4,25000,21.79,67.05,5,425000
+Maruti Wagon R,Maruti,Wagon R,7,69000,33.54,67.04,5,349000
+Maruti Wagon R,Maruti,Wagon R,12,27000,18.9,67.1,5,185000
+Maruti Alto,Maruti,Alto,3,23493,24.7,47.3,5,319000
+Renault KWID,Renault,KWID,4,29000,24.04,67.0,5,400000
+Renault KWID,Renault,KWID,5,21000,22.3,53.26,5,300000
+Maruti Wagon R,Maruti,Wagon R,6,28000,18.9,67.1,5,390000
+Datsun RediGO,Datsun,RediGO,3,3200,23.0,67.0,5,346000
+Maruti Celerio,Maruti,Celerio,7,56000,31.79,58.2,5,340000
+Maruti Celerio,Maruti,Celerio,3,28314,23.1,67.04,5,490000
+Hyundai Venue,Hyundai,Venue,1,4000,18.15,118.35,5,1185000
+Maruti Alto,Maruti,Alto,3,29000,33.44,40.3,4,345000
+Maruti Alto,Maruti,Alto,3,6800,23.95,67.05,5,375000
+Maruti Alto,Maruti,Alto,4,3600,24.7,47.3,5,318000
+Maruti Wagon R,Maruti,Wagon R,7,20903,32.52,58.33,5,410000
+Renault KWID,Renault,KWID,5,87000,22.3,53.26,5,325000
+Renault KWID,Renault,KWID,5,37000,25.17,53.3,5,350000
+Maruti Alto,Maruti,Alto,9,70000,19.7,46.3,5,200000
+Maruti Alto,Maruti,Alto,9,55294,20.92,67.1,5,251000
+Volkswagen Polo,Volkswagen,Polo,2,37326,18.78,75.0,5,550000
+Maruti Alto,Maruti,Alto,7,48255,22.74,47.3,5,250000
+Renault KWID,Renault,KWID,4,33000,24.04,67.0,5,395000
+Maruti Wagon R,Maruti,Wagon R,7,40330,20.51,67.04,5,290000
+Maruti Celerio,Maruti,Celerio,3,36000,23.1,67.04,5,545000
+Maruti Wagon R,Maruti,Wagon R,5,58802,18.9,67.1,5,425000
+Maruti Alto,Maruti,Alto,3,37000,24.7,47.3,5,349000
+Maruti Wagon R,Maruti,Wagon R,14,78000,18.9,67.1,5,160000
+Maruti Alto,Maruti,Alto,2,20000,23.95,67.05,5,370000
+Maruti Alto,Maruti,Alto,11,35000,19.7,46.3,5,115000
+Maruti Alto,Maruti,Alto,8,15000,22.74,47.3,5,262000
+Maruti Alto,Maruti,Alto,11,51479,19.7,46.3,5,195000
+Renault KWID,Renault,KWID,3,30000,25.17,53.3,5,320000
+Maruti Alto,Maruti,Alto,5,52361,23.95,67.05,5,350000
+Renault KWID,Renault,KWID,5,25000,23.01,67.0,5,250000
+Maruti Alto,Maruti,Alto,15,120000,19.7,46.3,5,150000
+Datsun RediGO,Datsun,RediGO,4,35000,22.7,53.64,5,230000
+Renault KWID,Renault,KWID,5,30000,25.17,53.3,5,345000
+Maruti Celerio,Maruti,Celerio,3,17000,23.1,67.04,5,500000
+Maruti Alto,Maruti,Alto,12,70000,19.7,46.3,5,165000
+Hyundai Venue,Hyundai,Venue,2,15000,18.27,118.35,5,958000
+Maruti Alto,Maruti,Alto,5,32903,23.95,67.05,5,347000
+Maruti Alto,Maruti,Alto,9,42000,19.7,46.3,5,211000
+Maruti Alto,Maruti,Alto,8,40580,22.74,47.3,5,224000
+Maruti Alto,Maruti,Alto,11,80000,19.7,46.3,5,164000
+Renault KWID,Renault,KWID,5,34000,23.01,67.0,5,385000
+Maruti Alto,Maruti,Alto,3,30000,23.95,67.05,5,380000
+Maruti Alto,Maruti,Alto,8,66516,22.74,47.3,5,220000
+Maruti Wagon R,Maruti,Wagon R,9,109000,14.4,61.7,5,260000
+Hyundai Venue,Hyundai,Venue,2,10000,18.15,118.35,5,1000000
+Maruti Wagon R,Maruti,Wagon R,4,60000,20.51,67.04,5,380000
+Maruti Wagon R,Maruti,Wagon R,9,66000,20.51,67.04,5,291000
+Maruti Alto,Maruti,Alto,3,35000,23.95,67.05,5,350000
+Maruti Alto,Maruti,Alto,2,1200,22.05,47.3,5,350000
+Maruti Wagon R,Maruti,Wagon R,5,50000,20.51,67.0,5,495000
+Renault KWID,Renault,KWID,3,5694,25.17,53.3,5,380000
+Renault KWID,Renault,KWID,3,9200,23.01,67.0,5,450000
+Maruti Alto,Maruti,Alto,3,25000,23.95,67.1,5,410000
+Maruti Alto,Maruti,Alto,9,67000,19.7,46.3,5,235000
+Maruti Alto,Maruti,Alto,12,26097,19.7,46.3,5,175000
+Maruti S-Presso,Maruti,S-Presso,1,1000,21.7,67.0,5,490000
+Maruti Alto,Maruti,Alto,14,86156,19.7,46.3,5,185000
+Maruti Alto,Maruti,Alto,9,60000,19.7,46.3,5,185000
+Maruti Alto,Maruti,Alto,3,15453,24.7,47.3,5,327000
+Maruti Alto,Maruti,Alto,6,70000,23.95,67.05,5,265000
+Renault Triber,Renault,Triber,1,5600,20.0,71.0,7,800000
+Maruti S-Presso,Maruti,S-Presso,2,5000,21.7,67.0,5,420000
+Maruti Wagon R,Maruti,Wagon R,7,76470,20.51,67.04,5,310000
+Maruti Wagon R,Maruti,Wagon R,10,78010,20.51,67.04,5,309000
+Maruti Alto,Maruti,Alto,6,35236,22.74,47.3,5,300000
+Maruti Alto,Maruti,Alto,6,25000,23.95,67.05,5,350000
+Maruti Celerio,Maruti,Celerio,7,39000,23.1,67.04,5,465000
+Maruti Celerio,Maruti,Celerio,6,50000,27.62,47.0,5,290000
+Maruti Wagon R,Maruti,Wagon R,5,40000,20.51,67.04,5,325000
+Maruti Wagon R,Maruti,Wagon R,4,41000,20.51,67.0,5,435000
+Renault KWID,Renault,KWID,1,4000,25.17,53.3,5,429000
+Maruti Celerio,Maruti,Celerio,2,58000,21.63,67.04,5,495000
+Maruti Alto,Maruti,Alto,3,80000,22.74,47.3,5,290000
+Maruti Wagon R,Maruti,Wagon R,6,60000,20.51,67.06,5,375000
+Renault KWID,Renault,KWID,4,40000,25.17,53.3,5,350000
+Datsun RediGO,Datsun,RediGO,3,30000,22.5,67.0,5,255000
+Renault KWID,Renault,KWID,6,30000,25.17,53.3,5,310000
+Maruti Alto,Maruti,Alto,9,60000,20.92,67.1,5,254000
+Renault KWID,Renault,KWID,6,68000,25.17,53.3,5,325000
+Maruti Wagon R,Maruti,Wagon R,8,37000,18.9,67.1,5,390000
+Maruti Alto,Maruti,Alto,4,25884,23.95,67.05,5,385000
+Maruti Alto,Maruti,Alto,7,56000,22.74,47.3,5,265000
+Maruti Alto,Maruti,Alto,7,60000,23.95,67.05,5,315000
+Maruti Alto,Maruti,Alto,16,90000,19.7,46.3,5,90000
+Maruti Alto,Maruti,Alto,15,103000,19.7,46.3,5,150000
+Renault KWID,Renault,KWID,4,50000,23.01,67.0,5,310000
+Maruti Alto,Maruti,Alto,10,62900,20.92,67.1,5,235000
+Maruti Wagon R,Maruti,Wagon R,4,19000,20.51,67.0,5,485000
+Maruti Wagon R,Maruti,Wagon R,7,27894,21.79,67.05,5,375000
+Maruti Alto,Maruti,Alto,10,72715,20.92,67.1,5,210000
+Maruti Alto,Maruti,Alto,4,70000,24.7,47.3,5,270000
+Maruti Alto,Maruti,Alto,8,45000,22.74,47.3,5,285000
+Maruti Alto,Maruti,Alto,2,21900,24.7,47.3,5,360000
+Maruti Celerio,Maruti,Celerio,2,25000,23.1,67.04,5,530000
+Maruti Alto,Maruti,Alto,14,100000,19.7,46.3,5,145000
+Maruti Alto,Maruti,Alto,7,35000,23.95,67.05,5,213000
+Maruti Alto,Maruti,Alto,5,40000,23.95,67.05,5,300000
+Renault KWID,Renault,KWID,5,45500,23.01,67.0,5,325000
+Maruti Celerio,Maruti,Celerio,4,9400,23.1,67.04,5,470000
+Maruti Alto,Maruti,Alto,3,18404,24.7,47.3,5,329000
+Ford Ecosport,Ford,Ecosport,4,11000,18.88,123.24,5,950000
+Renault KWID,Renault,KWID,5,15814,25.17,53.3,5,340000
+Renault KWID,Renault,KWID,3,39000,25.17,53.3,5,325000
+Maruti Alto,Maruti,Alto,4,60000,22.74,47.3,5,310000
+Renault KWID,Renault,KWID,3,26000,25.17,53.3,5,400000
+Renault KWID,Renault,KWID,4,50000,25.17,53.3,5,280000
+Maruti Alto,Maruti,Alto,3,20000,24.7,47.3,5,310000
+Maruti Wagon R,Maruti,Wagon R,6,70000,20.51,67.04,5,380000
+Maruti Alto,Maruti,Alto,12,60000,19.7,46.3,5,106000
+Maruti Celerio,Maruti,Celerio,7,86000,23.1,67.04,5,385000
+Maruti Wagon R,Maruti,Wagon R,5,31200,20.51,67.0,5,500000
+Maruti Alto,Maruti,Alto,5,60000,22.74,47.3,5,275000
+Maruti Celerio,Maruti,Celerio,5,54000,23.1,67.04,5,450000
+Renault KWID,Renault,KWID,5,46260,22.3,53.26,5,365000
+Maruti Wagon R,Maruti,Wagon R,6,22000,20.51,67.04,5,411000
+Renault KWID,Renault,KWID,2,10000,24.04,67.0,5,448000
+Renault KWID,Renault,KWID,2,26500,23.01,67.0,5,353000
+Maruti Alto,Maruti,Alto,9,55230,23.95,67.05,5,273000
+Maruti Alto,Maruti,Alto,8,50418,22.74,47.3,5,280000
+Maruti Alto,Maruti,Alto,4,54938,24.7,47.3,5,300000
+Maruti Wagon R,Maruti,Wagon R,5,11999,20.51,67.04,5,436000
+Renault KWID,Renault,KWID,4,110000,23.01,67.0,5,200000
+Maruti Wagon R,Maruti,Wagon R,7,18000,18.9,67.1,5,450000
+Renault KWID,Renault,KWID,4,35914,23.01,67.0,5,380000
+Maruti Wagon R,Maruti,Wagon R,6,60000,20.51,67.0,5,300000
+Maruti Alto,Maruti,Alto,7,35000,22.74,47.3,5,250000
+Renault KWID,Renault,KWID,3,9000,23.01,67.0,5,445000
+Maruti Wagon R,Maruti,Wagon R,3,8973,20.51,67.04,5,500000
+Hyundai Venue,Hyundai,Venue,2,14000,18.15,118.35,5,1060000
+Datsun RediGO,Datsun,RediGO,3,40000,22.5,67.0,5,350000
+Maruti Alto,Maruti,Alto,11,49650,19.7,46.3,5,210000
+Maruti Alto,Maruti,Alto,5,52000,22.74,47.3,5,225000
+Maruti Alto,Maruti,Alto,3,15000,24.7,47.3,5,310000
+Maruti Alto,Maruti,Alto,5,70000,22.74,47.3,5,250000
+Maruti Celerio,Maruti,Celerio,6,19010,23.1,67.04,5,431000
+Maruti Celerio,Maruti,Celerio,4,32388,21.63,67.04,5,470000
+Renault KWID,Renault,KWID,5,50000,25.17,53.3,5,252000
+Datsun RediGO,Datsun,RediGO,1,1001,23.0,67.0,5,425000
+Maruti Celerio,Maruti,Celerio,6,71500,23.1,67.04,5,295000
+Maruti Alto,Maruti,Alto,7,80000,23.95,67.05,5,270000
+Renault KWID,Renault,KWID,3,8000,24.04,67.0,5,430000
+Maruti Alto,Maruti,Alto,4,35000,24.7,47.3,5,290000
+Maruti Wagon R,Maruti,Wagon R,6,62400,18.9,67.1,5,370000
+Maruti Alto,Maruti,Alto,4,21444,24.7,47.3,5,311000
+Renault KWID,Renault,KWID,4,10000,23.01,67.0,5,400000
+Maruti Wagon R,Maruti,Wagon R,6,20365,20.51,67.0,5,400000
+Ford Ecosport,Ford,Ecosport,4,45400,18.88,123.24,5,700000
+Datsun RediGO,Datsun,RediGO,4,45138,22.5,67.0,5,322000
+Maruti Wagon R,Maruti,Wagon R,4,50000,20.51,67.04,5,380000
+Maruti Wagon R,Maruti,Wagon R,13,105379,26.6,58.16,5,219000
+Renault KWID,Renault,KWID,6,19000,20.71,53.26,5,335000
+Maruti Alto,Maruti,Alto,15,100000,19.7,46.3,5,62000
+Maruti Alto,Maruti,Alto,9,79000,19.7,46.3,5,200000
+Maruti Wagon R,Maruti,Wagon R,6,17205,20.51,67.04,5,400000
+Maruti Wagon R,Maruti,Wagon R,9,83000,18.9,67.1,5,285000
+Maruti Wagon R,Maruti,Wagon R,7,50000,20.51,67.04,5,351000
+Maruti Celerio,Maruti,Celerio,3,10000,21.63,67.0,5,510000
+Maruti Celerio,Maruti,Celerio,6,23121,23.1,67.04,5,461000
+Maruti Alto,Maruti,Alto,4,27265,23.95,67.1,5,371000
+Maruti Wagon R,Maruti,Wagon R,3,2000,20.51,67.06,5,450000
+Maruti Alto,Maruti,Alto,4,23701,24.7,47.3,5,312000
+Maruti S-Presso,Maruti,S-Presso,1,4500,21.7,67.0,5,550000
+Maruti Alto,Maruti,Alto,10,50000,20.92,67.1,5,230000
+Renault KWID,Renault,KWID,3,29000,23.01,67.0,5,370000
+Maruti Wagon R,Maruti,Wagon R,6,38700,18.9,67.1,5,375000
+Maruti Alto,Maruti,Alto,14,60235,19.7,46.3,5,100000
+Maruti Wagon R,Maruti,Wagon R,12,48001,18.9,67.1,5,219000
+Maruti Wagon R,Maruti,Wagon R,8,35000,18.9,67.1,5,250000
+Renault KWID,Renault,KWID,5,32736,23.01,67.0,5,310000
+Renault KWID,Renault,KWID,4,60000,23.01,67.0,5,350000
+Maruti Alto,Maruti,Alto,8,180000,22.74,47.3,5,180000
+Maruti Alto,Maruti,Alto,6,105610,22.74,47.3,5,250000
+Maruti Celerio,Maruti,Celerio,7,49000,23.1,67.04,5,335000
+Maruti Wagon R,Maruti,Wagon R,2,40000,21.79,67.05,5,450000
+Maruti S-Presso,Maruti,S-Presso,1,2000,21.7,67.0,5,450000
+Maruti Wagon R,Maruti,Wagon R,5,10000,20.51,67.04,5,400000
+Renault KWID,Renault,KWID,5,54701,23.01,67.0,5,260000
+Maruti Alto,Maruti,Alto,11,70000,19.7,46.3,5,135000
+Renault KWID,Renault,KWID,5,58000,23.01,67.0,5,345000
+Maruti Alto,Maruti,Alto,6,18604,22.74,47.3,5,310000
+Maruti Alto,Maruti,Alto,9,32103,20.92,67.1,5,245000
+Maruti Alto,Maruti,Alto,5,25000,23.95,67.05,5,415000
+Maruti Alto,Maruti,Alto,2,32895,22.05,47.3,5,300000
+Maruti Alto,Maruti,Alto,7,45075,22.74,47.3,5,255000
+Renault KWID,Renault,KWID,3,7300,25.17,53.3,5,330000
+Maruti Alto,Maruti,Alto,5,15000,22.74,47.3,5,295000
+Datsun RediGO,Datsun,RediGO,3,20000,22.7,53.64,5,425000
+Maruti Wagon R,Maruti,Wagon R,5,48000,18.9,67.1,5,425000
+Maruti Wagon R,Maruti,Wagon R,12,85281,18.9,67.1,5,210000
+Maruti Alto,Maruti,Alto,5,62000,22.74,47.3,5,295000
+Renault KWID,Renault,KWID,3,30000,25.17,53.3,5,350000
+Maruti Alto,Maruti,Alto,3,30000,23.95,67.05,5,350000
+Maruti Wagon R,Maruti,Wagon R,7,50000,14.6,61.6,5,350000
+Renault KWID,Renault,KWID,1,1200,22.0,67.0,5,450000
+Maruti Alto,Maruti,Alto,9,69254,20.92,67.1,5,230000
+Datsun RediGO,Datsun,RediGO,4,40000,22.5,67.0,5,260000
+Maruti Alto,Maruti,Alto,11,50000,19.7,46.3,5,250000
+Maruti Alto,Maruti,Alto,11,39290,23.95,67.05,5,240000
+Maruti Alto,Maruti,Alto,8,71239,22.74,47.3,5,260000
+Maruti Alto,Maruti,Alto,1,5000,22.05,47.3,5,300000
+Maruti Celerio,Maruti,Celerio,3,40000,23.1,67.04,5,350000
+Maruti Alto,Maruti,Alto,4,80000,23.95,67.05,5,300000
+Maruti Wagon R,Maruti,Wagon R,10,35000,18.9,67.1,5,315000
+Maruti Alto,Maruti,Alto,16,50000,19.7,46.3,5,70000
+Maruti Alto,Maruti,Alto,3,10000,23.95,67.1,5,420000
+Volkswagen Polo,Volkswagen,Polo,2,18000,18.78,75.0,5,700000
+Maruti Alto,Maruti,Alto,5,40000,22.74,47.3,5,280000
+Maruti Alto,Maruti,Alto,9,67000,18.9,47.0,5,245000
+Maruti Wagon R,Maruti,Wagon R,12,69000,21.79,67.05,5,250000
+Maruti Alto,Maruti,Alto,14,83000,19.7,46.3,5,110000
+Maruti Wagon R,Maruti,Wagon R,6,120000,26.6,58.16,5,333000
+Maruti Alto,Maruti,Alto,6,57000,22.74,47.3,5,285000
+Maruti Wagon R,Maruti,Wagon R,8,40000,20.51,67.04,5,395000
+Maruti Alto,Maruti,Alto,12,63000,19.7,46.3,5,110000
+Maruti Celerio,Maruti,Celerio,3,40000,21.63,67.0,5,450000
+Renault KWID,Renault,KWID,6,74675,25.17,53.3,5,284000
+Maruti Celerio,Maruti,Celerio,3,48000,23.1,67.04,5,451000
+Maruti Wagon R,Maruti,Wagon R,8,61000,18.9,67.1,5,375000
+Maruti Celerio,Maruti,Celerio,5,61173,27.62,47.0,5,375000
+Maruti Wagon R,Maruti,Wagon R,5,33949,18.9,67.1,5,385000
+Maruti Celerio,Maruti,Celerio,5,50000,23.1,67.04,5,450000
+Maruti Alto,Maruti,Alto,4,60000,24.7,47.3,5,250000
+Maruti Wagon R,Maruti,Wagon R,9,61000,18.9,67.1,5,275000
+Renault KWID,Renault,KWID,4,9000,25.17,53.3,5,410000
+Maruti Alto,Maruti,Alto,15,110000,19.7,46.3,5,148000
+Renault KWID,Renault,KWID,2,10000,25.17,53.3,5,375000
+Maruti Wagon R,Maruti,Wagon R,15,65000,18.9,67.1,5,175000
+Maruti Alto,Maruti,Alto,7,60000,23.95,67.05,5,230000
+Maruti Wagon R,Maruti,Wagon R,11,40000,18.9,67.1,5,214000
+Volkswagen Polo,Volkswagen,Polo,3,14510,18.78,75.0,5,560000
+Maruti Celerio,Maruti,Celerio,2,15000,23.1,67.04,5,460000
+Maruti Wagon R,Maruti,Wagon R,4,15000,20.51,67.0,5,425000
+Maruti Wagon R,Maruti,Wagon R,12,82149,21.79,67.05,5,220000
+Maruti Wagon R,Maruti,Wagon R,11,45000,18.9,67.1,5,290000
+Maruti Alto,Maruti,Alto,9,66000,22.74,47.3,5,220000
+Datsun redi-GO,Datsun,redi-GO,3,6000,22.0,67.05,5,435000
+Maruti Wagon R,Maruti,Wagon R,4,39612,21.79,67.05,5,465000
+Maruti Wagon R,Maruti,Wagon R,7,20000,20.51,67.04,5,250000
+Maruti Wagon R,Maruti,Wagon R,6,41586,21.79,67.05,5,360000
+Renault KWID,Renault,KWID,5,25000,25.17,53.3,5,275000
+Maruti Alto,Maruti,Alto,9,75000,19.7,46.3,5,245000
+Maruti Wagon R,Maruti,Wagon R,5,29000,20.51,67.0,5,450000
+Maruti Alto,Maruti,Alto,9,81622,23.95,67.05,5,240000
+Maruti Wagon R,Maruti,Wagon R,17,50000,18.9,67.1,5,80000
+Maruti Celerio,Maruti,Celerio,5,53000,23.1,67.04,5,455000
+Maruti Wagon R,Maruti,Wagon R,7,80000,20.51,67.04,5,300000
+Renault KWID,Renault,KWID,3,1973,24.04,67.0,5,485000
+Datsun RediGO,Datsun,RediGO,4,49000,22.7,53.64,5,220000
+Maruti Alto,Maruti,Alto,17,80000,19.7,46.3,5,80000
+Maruti Alto,Maruti,Alto,5,35000,22.74,47.3,5,280000
+Maruti Alto,Maruti,Alto,11,78000,20.92,67.1,5,245000
+Maruti Celerio,Maruti,Celerio,4,40000,23.1,67.04,5,400000
+Maruti Alto,Maruti,Alto,4,50000,32.26,58.2,4,315000
+Datsun RediGO,Datsun,RediGO,5,50000,22.7,53.64,5,235000
+Maruti Alto,Maruti,Alto,6,37528,23.95,67.05,5,310000
+Maruti Alto,Maruti,Alto,6,40000,22.74,47.3,5,280000
+Maruti Wagon R,Maruti,Wagon R,7,65369,18.9,67.1,5,390000
+Maruti Alto,Maruti,Alto,4,54000,24.7,47.3,5,260000
+Maruti Alto,Maruti,Alto,2,20387,22.05,47.3,5,335000
+Renault KWID,Renault,KWID,3,20000,23.01,67.0,5,340000
+Hyundai Venue,Hyundai,Venue,2,14351,18.27,118.35,5,1090000
+Maruti Alto,Maruti,Alto,5,30000,24.7,47.3,5,228000
+Maruti Wagon R,Maruti,Wagon R,8,69073,20.51,67.04,5,330000
+Maruti Celerio,Maruti,Celerio,4,55000,23.1,67.04,5,450000
+Maruti Baleno,Maruti,Baleno,3,21340,21.1,100.5,5,600000
+Maruti Alto,Maruti,Alto,9,43043,20.92,67.1,5,230000
+Datsun RediGO,Datsun,RediGO,5,11995,22.7,53.64,5,330000
+Maruti Wagon R,Maruti,Wagon R,4,38311,20.51,67.04,5,469000
+Maruti Celerio,Maruti,Celerio,5,64211,23.1,67.04,5,440000
+Maruti Alto,Maruti,Alto,4,40000,23.95,67.05,5,306000
+Maruti Wagon R,Maruti,Wagon R,4,82000,18.9,67.1,5,410000
+Maruti Alto,Maruti,Alto,3,31393,23.95,67.05,5,350000
+Datsun RediGO,Datsun,RediGO,5,41987,22.7,53.64,5,326000
+Renault KWID,Renault,KWID,2,11000,23.01,67.0,5,450000
+Maruti Alto,Maruti,Alto,8,59800,22.74,47.3,5,250000
+Maruti Celerio,Maruti,Celerio,5,55000,23.1,67.04,5,480000
+Maruti Alto,Maruti,Alto,15,55000,19.7,46.3,5,95000
+Maruti Alto,Maruti,Alto,15,74650,19.7,46.3,5,140000
+Maruti Celerio,Maruti,Celerio,6,28951,23.1,67.04,5,448000
+Maruti Alto,Maruti,Alto,10,50000,19.7,46.3,5,140000
+Maruti Wagon R,Maruti,Wagon R,3,37650,21.79,67.05,5,470000
+Maruti Alto,Maruti,Alto,3,15000,23.95,67.1,5,350000
+Maruti Celerio,Maruti,Celerio,6,34000,23.1,67.04,5,425000
+Maruti Wagon R,Maruti,Wagon R,4,38000,20.51,67.04,5,425000
+Maruti Alto,Maruti,Alto,4,22000,23.95,67.05,5,335000
+Maruti Wagon R,Maruti,Wagon R,9,60000,18.9,67.1,5,300000
+Maruti Alto,Maruti,Alto,11,86000,23.95,67.05,5,220000
+Maruti Alto,Maruti,Alto,4,35000,23.95,67.05,5,370000
+Renault KWID,Renault,KWID,2,13000,25.17,53.3,5,370000
+Maruti Wagon R,Maruti,Wagon R,14,89000,18.9,67.1,5,195000
+Renault KWID,Renault,KWID,3,34000,23.01,67.0,5,460000
+Maruti Wagon R,Maruti,Wagon R,4,10000,20.51,67.04,5,420000
+Maruti Alto,Maruti,Alto,17,85000,19.7,46.3,5,135000
+Maruti Alto,Maruti,Alto,4,50000,24.7,47.3,5,280000
+Maruti Alto,Maruti,Alto,6,68000,22.74,47.3,5,270000
+Maruti Alto,Maruti,Alto,11,27000,19.7,46.3,5,220000
+Maruti Alto,Maruti,Alto,12,110000,24.7,47.3,5,150000
+Maruti Alto,Maruti,Alto,6,29678,22.74,47.3,5,299000
+Maruti Alto,Maruti,Alto,6,35000,22.74,47.3,5,270000
+Maruti S-Presso,Maruti,S-Presso,2,10000,21.7,67.0,5,425000
+Maruti Alto,Maruti,Alto,3,33026,24.7,47.3,5,328000
+Renault KWID,Renault,KWID,3,14000,23.01,67.0,5,370000
+Maruti Alto,Maruti,Alto,5,31488,24.7,47.3,5,300000
+Datsun redi-GO,Datsun,redi-GO,4,34000,21.7,67.05,5,249000
+Maruti Alto,Maruti,Alto,6,50000,22.74,47.3,5,220000
+Maruti Alto,Maruti,Alto,5,31000,22.74,47.3,5,280000
+Maruti Wagon R,Maruti,Wagon R,6,90000,20.51,67.04,5,300000
+Renault KWID,Renault,KWID,4,25000,23.01,67.0,5,250000
+Maruti Wagon R,Maruti,Wagon R,5,50000,20.51,67.04,5,425000
+Maruti Wagon R,Maruti,Wagon R,3,10000,20.51,67.04,5,391000
+Renault KWID,Renault,KWID,4,22017,23.01,67.0,5,380000
+Maruti Alto,Maruti,Alto,5,24779,23.95,67.05,5,360000
+Maruti Alto,Maruti,Alto,11,70000,19.7,46.3,5,150000
+Maruti Wagon R,Maruti,Wagon R,10,62000,18.9,67.1,5,295000
+Maruti Alto,Maruti,Alto,8,24000,22.74,47.3,5,270000
+Maruti Alto,Maruti,Alto,14,55000,19.7,46.3,5,150000
+Maruti Alto,Maruti,Alto,3,40000,24.7,47.3,5,350000
+Renault Triber,Renault,Triber,2,20500,20.0,72.0,7,650000
+Maruti Alto,Maruti,Alto,10,170000,19.7,46.3,5,300000
+Maruti Celerio,Maruti,Celerio,6,35330,27.62,47.0,5,489000
+Maruti Celerio,Maruti,Celerio,3,8300,23.1,67.04,5,450000
+Maruti Alto,Maruti,Alto,10,40000,20.92,67.1,5,240000
+Maruti Alto,Maruti,Alto,11,50000,20.92,67.1,5,225000
+Renault KWID,Renault,KWID,5,45000,25.17,53.3,5,225000
+Maruti Wagon R,Maruti,Wagon R,7,25932,21.79,67.05,5,382000
+Renault KWID,Renault,KWID,1,3960,22.0,67.0,5,550000
+Maruti Alto,Maruti,Alto,11,80000,19.7,46.3,5,170000
+Maruti Alto,Maruti,Alto,4,80000,24.7,47.3,5,280000
+Maruti Celerio,Maruti,Celerio,8,26000,23.1,67.04,5,450000
+Maruti Alto,Maruti,Alto,11,98499,19.7,46.3,5,185000
+Maruti Wagon R,Maruti,Wagon R,4,19971,21.79,67.05,5,450000
+Maruti Alto,Maruti,Alto,6,70000,22.74,47.3,5,300000
+Renault KWID,Renault,KWID,4,34000,24.04,67.0,5,395000
+Maruti Wagon R,Maruti,Wagon R,4,28500,20.51,67.0,5,525000
+Maruti Wagon R,Maruti,Wagon R,5,63359,20.51,67.0,5,360000
+Maruti Alto,Maruti,Alto,7,35000,22.74,47.3,5,250000
+Maruti Alto,Maruti,Alto,2,10000,23.95,67.05,5,373000
+Maruti Alto,Maruti,Alto,7,60000,23.95,67.05,5,295000
+Maruti Alto,Maruti,Alto,2,25000,24.7,47.3,5,310000
+Renault KWID,Renault,KWID,4,16303,25.17,53.3,5,350000
+Maruti Wagon R,Maruti,Wagon R,4,35000,21.79,67.05,5,450000
+Maruti Wagon R,Maruti,Wagon R,9,59000,18.9,67.0,5,265000
+Maruti Alto,Maruti,Alto,3,35000,24.7,47.3,5,320000
+Maruti Wagon R,Maruti,Wagon R,9,58000,18.9,67.1,5,310000
+Maruti Alto,Maruti,Alto,5,48000,23.95,67.05,5,311000
+Maruti Wagon R,Maruti,Wagon R,4,33070,20.51,67.04,5,460000
+Maruti Wagon R,Maruti,Wagon R,12,64321,21.79,67.05,5,235000
+Maruti Alto,Maruti,Alto,9,15000,20.92,67.1,5,200000
+Maruti Alto,Maruti,Alto,2,35000,23.95,67.05,5,380000
+Maruti Celerio,Maruti,Celerio,6,48000,27.62,47.0,5,475000
+Maruti Alto,Maruti,Alto,9,79433,23.95,67.05,5,273000
+Renault KWID,Renault,KWID,2,15000,25.17,53.3,5,380000
+Datsun RediGO,Datsun,RediGO,3,1830,22.7,53.64,5,360000
+Maruti Alto,Maruti,Alto,4,25000,24.7,47.3,5,250000
+Maruti Alto,Maruti,Alto,8,51203,20.92,67.1,5,280000
+Maruti Alto,Maruti,Alto,14,30000,19.7,46.3,5,120000
+Maruti Wagon R,Maruti,Wagon R,3,25000,20.51,67.04,5,380000
+Maruti Alto,Maruti,Alto,6,30000,22.74,47.3,5,255000
+Maruti Alto,Maruti,Alto,4,35668,23.95,67.1,5,369000
+Maruti Alto,Maruti,Alto,2,85000,24.7,47.3,5,330000
+Renault KWID,Renault,KWID,3,30941,23.01,67.0,5,354000
+Maruti Alto,Maruti,Alto,1,1500,22.05,47.3,5,350000
+Maruti Alto,Maruti,Alto,8,25000,30.46,47.3,5,220000
+Maruti Celerio,Maruti,Celerio,3,25000,23.1,67.04,5,460000
+Maruti Alto,Maruti,Alto,6,76407,23.95,67.05,5,300000
+Maruti Alto,Maruti,Alto,3,5000,23.95,67.05,5,350000
+Maruti Alto,Maruti,Alto,2,12000,22.05,47.3,5,285000
+Maruti Celerio,Maruti,Celerio,5,54000,23.1,67.04,5,450000
+Maruti Alto,Maruti,Alto,14,49251,19.7,46.3,5,175000
+Maruti Celerio,Maruti,Celerio,5,30464,23.1,67.04,5,469000
+Maruti Wagon R,Maruti,Wagon R,7,50000,20.51,67.06,5,400000
+Maruti Wagon R,Maruti,Wagon R,4,90000,20.51,67.04,5,320000
+Maruti S-Presso,Maruti,S-Presso,2,12000,21.7,67.0,5,400000
+Maruti Alto,Maruti,Alto,9,75000,19.7,46.3,5,222000
+Renault KWID,Renault,KWID,5,60000,25.17,53.3,5,276000
+Renault KWID,Renault,KWID,6,68000,25.17,53.3,5,325000
+Renault KWID,Renault,KWID,3,9000,23.01,67.0,5,420000
+Maruti Alto,Maruti,Alto,11,107000,20.92,67.1,5,230000
+Renault KWID,Renault,KWID,3,8977,24.04,67.0,5,490000
+Maruti Alto,Maruti,Alto,9,21001,20.92,67.1,5,265000
+Maruti Alto,Maruti,Alto,4,30903,23.95,67.05,5,377000
+Datsun RediGO,Datsun,RediGO,4,10000,22.7,53.64,5,350000
+Renault KWID,Renault,KWID,3,25000,23.01,67.0,5,299000
+Maruti Alto,Maruti,Alto,5,35000,23.95,67.05,5,285000
+Renault KWID,Renault,KWID,1,2300,25.17,53.3,5,375000
+Maruti Alto,Maruti,Alto,6,55000,23.95,67.05,5,325000
+Maruti Alto,Maruti,Alto,7,60000,22.74,47.3,5,250000
+Maruti Alto,Maruti,Alto,3,14709,24.7,47.3,5,380000
+Maruti Alto,Maruti,Alto,5,25000,22.74,47.3,5,220000
+Maruti Wagon R,Maruti,Wagon R,14,89000,18.9,67.1,5,185000
+Datsun RediGO,Datsun,RediGO,3,15000,22.5,68.0,5,365000
+Maruti Alto,Maruti,Alto,7,10595,23.95,67.05,5,325000
+Maruti Alto,Maruti,Alto,17,70000,19.7,46.3,5,100000
+Maruti Alto,Maruti,Alto,14,76366,19.7,46.3,5,185000
+Renault KWID,Renault,KWID,3,41000,23.01,67.0,5,395000
+Renault KWID,Renault,KWID,3,40000,24.04,67.0,5,350000
+Maruti Alto,Maruti,Alto,2,25000,23.95,67.05,5,431000
+Maruti Alto,Maruti,Alto,4,23000,24.7,47.3,5,285000
+Maruti Alto,Maruti,Alto,2,6944,23.95,67.05,5,465000
+Maruti Alto,Maruti,Alto,3,30000,23.95,67.05,5,350000
+Maruti Alto,Maruti,Alto,8,52000,20.92,67.1,5,260000
+Maruti Wagon R,Maruti,Wagon R,7,48000,18.9,67.1,5,320000
+Maruti Alto,Maruti,Alto,13,40000,19.7,46.3,5,140000
+Maruti Celerio,Maruti,Celerio,4,33000,23.1,67.04,5,460000
+Maruti Alto,Maruti,Alto,7,62338,23.95,67.05,5,290000
+Maruti Wagon R,Maruti,Wagon R,12,78000,26.2,58.2,5,175000
+Volkswagen Polo,Volkswagen,Polo,1,18489,18.24,108.62,5,700000
+Maruti Alto,Maruti,Alto,3,7204,24.7,47.3,5,336000
+Maruti Celerio,Maruti,Celerio,3,5000,21.63,67.04,5,535000
+Maruti Alto,Maruti,Alto,13,20000,19.7,46.3,5,150000
+Maruti Wagon R,Maruti,Wagon R,5,63200,20.51,67.04,5,375000
+Maruti Wagon R,Maruti,Wagon R,3,49697,21.79,67.05,5,475000
+Renault KWID,Renault,KWID,4,8500,25.17,53.3,5,325000
+Maruti Alto,Maruti,Alto,3,20000,24.7,47.3,5,260000
+Maruti Alto,Maruti,Alto,5,50000,23.95,67.1,5,340000
+Maruti Alto,Maruti,Alto,3,4600,22.05,47.3,5,280000
+Datsun RediGO,Datsun,RediGO,3,30000,22.5,67.0,5,300000
+Maruti Alto,Maruti,Alto,6,20000,23.95,67.05,5,200000
+Maruti Alto,Maruti,Alto,19,82000,19.7,46.3,5,100000
+Renault KWID,Renault,KWID,2,1100,23.01,67.0,5,450000
+Maruti Wagon R,Maruti,Wagon R,3,30000,20.51,67.04,5,440000
+Maruti Alto,Maruti,Alto,7,38000,22.74,47.3,5,265000
+Maruti Wagon R,Maruti,Wagon R,9,43000,20.51,67.04,5,299000
+Renault KWID,Renault,KWID,5,50000,25.17,53.3,5,330000
+Datsun RediGO,Datsun,RediGO,5,35000,22.7,53.64,5,300000
+Maruti Wagon R,Maruti,Wagon R,4,86000,18.9,67.1,5,410000
+Maruti Alto,Maruti,Alto,2,8300,24.7,47.3,5,330000
+Maruti Alto,Maruti,Alto,6,38000,23.95,67.05,5,350000
+Maruti Wagon R,Maruti,Wagon R,15,39056,18.9,67.1,5,100000
+Maruti Celerio,Maruti,Celerio,5,20675,23.1,67.04,5,470000
+Renault KWID,Renault,KWID,3,48500,23.01,67.0,5,385000
+Renault KWID,Renault,KWID,5,35000,25.17,53.3,5,310000
+Maruti Wagon R,Maruti,Wagon R,13,86000,18.9,67.1,5,210000
+Maruti Wagon R,Maruti,Wagon R,5,110000,20.51,67.04,5,400000
+Renault KWID,Renault,KWID,3,9000,24.04,67.0,5,450000
+Maruti Celerio,Maruti,Celerio,5,35232,23.1,67.04,5,445000
+Renault KWID,Renault,KWID,5,63000,23.01,67.0,5,350000
+Maruti Wagon R,Maruti,Wagon R,21,83000,18.9,67.1,5,85000
+Datsun RediGO,Datsun,RediGO,2,4646,22.7,53.64,5,350000
+Maruti Alto,Maruti,Alto,6,85000,22.74,47.3,5,276000
+Maruti Wagon R,Maruti,Wagon R,8,57835,21.79,67.05,5,365000
+Maruti Wagon R,Maruti,Wagon R,8,110000,20.51,67.04,5,230000
+Maruti Alto,Maruti,Alto,10,100000,20.92,67.1,5,215000
+Maruti Alto,Maruti,Alto,7,20068,23.95,67.05,5,286000
+Maruti Wagon R,Maruti,Wagon R,8,55983,18.9,67.1,5,325000
+Maruti Alto,Maruti,Alto,2,90000,24.7,47.3,5,300000
+Renault KWID,Renault,KWID,5,64000,25.17,53.3,5,350000
+Maruti Alto,Maruti,Alto,6,50000,22.74,47.3,5,270000
+Maruti Alto,Maruti,Alto,6,40000,23.95,67.05,5,280000
+Maruti Alto,Maruti,Alto,10,120000,20.92,67.1,5,270000
+Ford Ecosport,Ford,Ecosport,8,60000,18.88,123.37,5,610000
+Maruti Alto,Maruti,Alto,15,110000,19.7,46.3,5,115000
+Maruti Alto,Maruti,Alto,13,97000,19.7,46.3,5,175000
+Maruti Wagon R,Maruti,Wagon R,6,37203,20.51,67.04,5,375000
+Maruti Alto,Maruti,Alto,5,42540,22.74,47.3,5,290000
+Maruti Wagon R,Maruti,Wagon R,9,50000,18.9,67.1,5,280000
+Maruti Alto,Maruti,Alto,8,90000,22.74,47.3,5,200000
+Maruti Wagon R,Maruti,Wagon R,7,68000,21.79,67.05,5,311000
+Maruti Wagon R,Maruti,Wagon R,6,50000,20.51,67.04,5,350000
+Maruti Alto,Maruti,Alto,6,42000,23.95,67.05,5,300000
+Hyundai Venue,Hyundai,Venue,2,10000,18.15,118.35,5,1100000
+Maruti Alto,Maruti,Alto,9,70450,23.95,67.05,5,289000
+Maruti Wagon R,Maruti,Wagon R,11,31535,14.6,61.6,5,265000
+Maruti Alto,Maruti,Alto,4,33977,24.7,47.3,5,299000
+Maruti Alto,Maruti,Alto,4,66000,23.95,67.05,5,320000
+Maruti Alto,Maruti,Alto,12,80000,19.7,46.3,5,250000
+Maruti Alto,Maruti,Alto,9,62000,19.7,46.3,5,245000
+Maruti Alto,Maruti,Alto,4,9021,23.95,67.05,5,350000
+Maruti Alto,Maruti,Alto,3,38000,22.74,47.3,5,325000
+Maruti Alto,Maruti,Alto,13,76000,19.7,46.3,5,165000
+Renault KWID,Renault,KWID,5,64000,22.3,53.26,5,280000
+Renault KWID,Renault,KWID,4,28000,25.17,53.3,5,290000
+Maruti Alto,Maruti,Alto,3,29000,24.7,47.3,5,350000
+Maruti Alto,Maruti,Alto,1,11000,22.05,47.3,5,350000
+Maruti Wagon R,Maruti,Wagon R,6,72000,18.9,67.1,5,341000
+Renault KWID,Renault,KWID,5,53000,25.17,53.3,5,230000
+Renault KWID,Renault,KWID,5,35000,25.17,53.3,5,250000
+Maruti Celerio,Maruti,Celerio,2,18500,21.63,67.0,5,575000
+Maruti Celerio,Maruti,Celerio,5,50000,23.1,67.04,5,400000
+Maruti Alto,Maruti,Alto,9,25000,20.92,67.1,5,200000
+Datsun redi-GO,Datsun,redi-GO,4,50500,20.71,53.64,5,250000
+Maruti Alto,Maruti,Alto,2,5000,23.95,67.05,5,355000
+Renault KWID,Renault,KWID,5,60000,25.17,53.3,5,270000
+Datsun RediGO,Datsun,RediGO,5,18000,22.7,53.64,5,285000
+Maruti Wagon R,Maruti,Wagon R,5,21517,18.9,67.1,5,315000
+Maruti Alto,Maruti,Alto,4,15554,22.05,47.3,5,310000
+Maruti Wagon R,Maruti,Wagon R,10,57000,26.2,58.2,5,220000
+Maruti Alto,Maruti,Alto,6,42000,23.95,67.05,5,285000
+Maruti Wagon R,Maruti,Wagon R,6,60000,20.51,67.04,5,310000
+Maruti Wagon R,Maruti,Wagon R,16,29957,18.9,67.1,5,150000
+Renault KWID,Renault,KWID,4,15000,23.01,67.0,5,350000
+Maruti Wagon R,Maruti,Wagon R,6,69000,33.54,67.04,5,350000
+Maruti Wagon R,Maruti,Wagon R,9,37300,18.9,67.1,5,275000
+Maruti Alto,Maruti,Alto,3,5000,24.7,47.3,5,300000
+Maruti Alto,Maruti,Alto,9,21000,19.7,46.3,5,140000
+Maruti Alto,Maruti,Alto,2,30000,23.95,67.05,5,350000
+Maruti Alto,Maruti,Alto,3,25000,24.7,47.3,5,255000
+Maruti Wagon R,Maruti,Wagon R,10,120000,18.9,67.1,5,192000
+Maruti Wagon R,Maruti,Wagon R,15,64000,21.79,67.05,5,120000
+Datsun RediGO,Datsun,RediGO,4,21696,22.7,53.64,5,290000
+Maruti Celerio,Maruti,Celerio,7,27027,23.1,67.04,5,370000
+Maruti Alto,Maruti,Alto,9,76154,19.7,46.3,5,275000
+Maruti Wagon R,Maruti,Wagon R,15,120000,18.9,67.1,5,80000
+Renault KWID,Renault,KWID,3,10000,23.01,67.0,5,380000
+Maruti Alto,Maruti,Alto,6,22000,22.74,47.3,5,249000
+Maruti Alto,Maruti,Alto,6,45000,24.7,47.3,5,265000
+Maruti Alto,Maruti,Alto,4,28000,24.7,47.3,5,340000
+Maruti Alto,Maruti,Alto,5,29289,22.74,47.3,5,239000
+Datsun RediGO,Datsun,RediGO,3,50000,22.7,53.64,5,250000
+Datsun RediGO,Datsun,RediGO,4,9500,22.7,53.0,5,300000
+Maruti Wagon R,Maruti,Wagon R,11,25000,18.9,67.1,5,190000
+Maruti Wagon R,Maruti,Wagon R,13,28640,18.9,67.1,5,166000
+Maruti Alto,Maruti,Alto,5,8230,20.92,67.1,5,270000
+Renault KWID,Renault,KWID,5,35000,25.17,53.3,5,244000
+Maruti Alto,Maruti,Alto,4,7000,23.95,67.05,5,300000
+Maruti Wagon R,Maruti,Wagon R,9,60000,26.2,58.2,5,215000
+Maruti Celerio,Maruti,Celerio,4,38963,21.63,67.04,5,425000
+Maruti Wagon R,Maruti,Wagon R,3,9450,20.51,67.0,5,412000
+Maruti Celerio,Maruti,Celerio,5,35887,23.1,67.04,5,390000
+Maruti Celerio,Maruti,Celerio,7,32000,23.1,67.04,5,425000
+Maruti Wagon R,Maruti,Wagon R,9,12000,18.9,67.1,5,265000
+Renault KWID,Renault,KWID,4,70000,23.01,67.0,5,345000
+Maruti Wagon R,Maruti,Wagon R,7,40000,20.51,67.04,5,300000
+Maruti Alto,Maruti,Alto,2,5000,23.95,67.05,5,420000
+Renault KWID,Renault,KWID,3,21400,23.01,67.0,5,365000
+Renault KWID,Renault,KWID,6,32000,20.71,53.26,5,245000
+Renault KWID,Renault,KWID,2,5000,25.17,53.3,5,375000
+Maruti Alto,Maruti,Alto,10,16300,19.7,46.3,5,168000
+Maruti Wagon R,Maruti,Wagon R,6,7830,20.51,67.04,5,354000
+Maruti Alto,Maruti,Alto,5,60000,23.95,67.05,5,270000
+Maruti Alto,Maruti,Alto,13,110000,19.7,46.3,5,85000
+Maruti Alto,Maruti,Alto,2,15000,24.7,47.3,5,310000
+Maruti Alto,Maruti,Alto,11,29000,19.7,46.3,5,150000
+Renault KWID,Renault,KWID,4,17000,25.17,53.3,5,300000
+Maruti Wagon R,Maruti,Wagon R,4,40000,26.6,58.16,5,330000
+Renault KWID,Renault,KWID,4,20914,23.01,67.0,5,340000
+Maruti Wagon R,Maruti,Wagon R,3,45455,18.9,67.1,5,425000
+Maruti Alto,Maruti,Alto,14,46000,19.7,46.3,5,110000
+Maruti Wagon R,Maruti,Wagon R,6,90000,20.51,67.04,5,300000
+Maruti Wagon R,Maruti,Wagon R,6,90000,20.51,67.04,5,400000
+Datsun RediGO,Datsun,RediGO,5,13000,22.7,53.64,5,285000
+Maruti Wagon R,Maruti,Wagon R,5,63554,20.51,67.04,5,350000
+Maruti Alto,Maruti,Alto,6,40000,23.95,67.05,5,325000
+Maruti Wagon R,Maruti,Wagon R,3,30000,20.51,67.04,5,425000
+Maruti Alto,Maruti,Alto,10,29000,19.7,46.3,5,180000
+Maruti Alto,Maruti,Alto,3,20000,24.7,47.3,5,322000
+Maruti Alto,Maruti,Alto,8,38600,20.92,67.1,5,229000
+Maruti Wagon R,Maruti,Wagon R,11,20000,18.9,67.1,5,350000
+Renault KWID,Renault,KWID,2,30000,23.01,67.0,5,350000
+Maruti Celerio,Maruti,Celerio,3,15000,21.63,67.0,5,400000
+Maruti Alto,Maruti,Alto,7,37604,20.92,67.1,5,300000
+Maruti Alto,Maruti,Alto,7,50000,22.74,47.3,5,210000
+Maruti Alto,Maruti,Alto,5,50000,23.95,67.05,5,276000
+Maruti Wagon R,Maruti,Wagon R,7,70000,20.51,67.04,5,400000
+Maruti Alto,Maruti,Alto,2,30000,23.95,67.05,5,363000
+Maruti Alto,Maruti,Alto,11,87743,19.7,46.3,5,150000
+Maruti Alto,Maruti,Alto,11,41000,19.7,46.3,5,160000
+Maruti Celerio,Maruti,Celerio,6,50000,23.1,67.04,5,305000
+Maruti Wagon R,Maruti,Wagon R,3,32000,21.79,67.05,5,435000
+Maruti Alto,Maruti,Alto,7,33000,22.74,47.3,5,237000
+Maruti Alto,Maruti,Alto,3,32000,24.7,47.3,5,280000
+Renault KWID,Renault,KWID,6,5000,25.17,53.3,5,250000
+Maruti Alto,Maruti,Alto,5,15000,24.7,47.3,5,289000
+Maruti Wagon R,Maruti,Wagon R,6,37564,18.9,67.1,5,330000
+Maruti Alto,Maruti,Alto,6,50000,22.74,47.3,5,250000
+Maruti Wagon R,Maruti,Wagon R,6,30000,20.51,67.04,5,330000
+Maruti Alto,Maruti,Alto,10,30000,19.7,46.3,5,150000
+Maruti Alto,Maruti,Alto,6,38000,23.95,67.05,5,260000
+Renault KWID,Renault,KWID,5,40000,23.01,67.0,5,255000
+Maruti Wagon R,Maruti,Wagon R,6,32000,20.51,67.04,5,320000
+Maruti Alto,Maruti,Alto,6,36668,22.74,47.3,5,270000
+Maruti Celerio,Maruti,Celerio,7,35000,23.1,67.04,5,350000
+Maruti Alto,Maruti,Alto,5,20000,22.74,47.3,5,235000
+Maruti Wagon R,Maruti,Wagon R,5,32000,21.79,67.05,5,365000
+Maruti Alto,Maruti,Alto,6,50000,22.74,47.3,5,210000
+Datsun RediGO,Datsun,RediGO,4,20260,22.5,67.0,5,245000
+Maruti Wagon R,Maruti,Wagon R,8,75000,20.51,67.04,5,300000
+Maruti Wagon R,Maruti,Wagon R,14,53000,18.9,67.1,5,130000
+Maruti Celerio,Maruti,Celerio,3,72000,21.63,67.04,5,470000
+Maruti Alto,Maruti,Alto,3,55000,24.7,47.3,5,230000
+Maruti Celerio,Maruti,Celerio,4,33000,21.63,67.0,5,480000
+Maruti Alto,Maruti,Alto,6,60000,23.95,67.05,5,240000
+Maruti Wagon R,Maruti,Wagon R,3,15000,20.51,67.04,5,418000
+Datsun RediGO,Datsun,RediGO,3,25000,22.7,53.64,5,250000
+Maruti Wagon R,Maruti,Wagon R,6,28207,21.79,67.05,5,320000
+Maruti Wagon R,Maruti,Wagon R,5,29836,20.51,67.04,5,425000
+Maruti Wagon R,Maruti,Wagon R,11,80566,18.9,67.1,5,250000
+Maruti Celerio,Maruti,Celerio,4,20500,23.1,67.04,5,350000
+Maruti Alto,Maruti,Alto,3,20000,23.95,67.1,5,350000
+Maruti Wagon R,Maruti,Wagon R,21,80000,18.9,67.1,5,40000
+Maruti Alto,Maruti,Alto,2,5000,24.7,47.3,5,300000
+Maruti Alto,Maruti,Alto,10,40256,19.7,46.3,5,138000
+Renault KWID,Renault,KWID,2,6378,23.01,67.0,5,399000
+Maruti Wagon R,Maruti,Wagon R,7,76000,21.79,67.05,5,325000
+Maruti Alto,Maruti,Alto,11,70000,19.7,46.3,5,130000
+Maruti Celerio,Maruti,Celerio,7,100000,23.1,67.04,5,340000
+Maruti Wagon R,Maruti,Wagon R,4,24500,21.79,67.05,5,382000
+Maruti Alto,Maruti,Alto,13,100000,19.7,46.3,5,150000
+Renault KWID,Renault,KWID,5,42000,25.17,53.3,5,295000
+Maruti Wagon R,Maruti,Wagon R,8,48000,20.51,67.04,5,250000
+Renault KWID,Renault,KWID,4,28600,25.17,53.3,5,235000
+Renault KWID,Renault,KWID,4,24000,23.01,67.0,5,330000
+Maruti Alto,Maruti,Alto,8,73000,22.74,47.3,5,200000
+Maruti Alto,Maruti,Alto,4,40000,23.95,67.05,5,350000
+Maruti Wagon R,Maruti,Wagon R,12,45641,18.9,67.1,5,190000
+Datsun RediGO,Datsun,RediGO,4,22558,22.7,53.64,5,235000
+Maruti Alto,Maruti,Alto,19,54000,19.7,46.3,5,90000
+Maruti Wagon R,Maruti,Wagon R,5,50000,20.51,67.04,5,350000
+Maruti Wagon R,Maruti,Wagon R,7,41423,21.79,67.05,5,295000
+Maruti Alto,Maruti,Alto,4,100000,23.95,67.05,5,300000
+Maruti Wagon R,Maruti,Wagon R,15,35000,18.9,67.1,5,100000
+Renault KWID,Renault,KWID,5,23000,22.3,53.26,5,245000
+Renault KWID,Renault,KWID,4,70000,25.17,53.3,5,270000
+Maruti Alto,Maruti,Alto,8,23460,23.95,67.05,5,240000
+Maruti Celerio,Maruti,Celerio,4,7500,23.1,67.04,5,412000
+Maruti Wagon R,Maruti,Wagon R,8,70000,26.6,58.16,5,270000
+Renault KWID,Renault,KWID,3,9000,25.17,53.3,5,450000
+Renault KWID,Renault,KWID,3,7000,24.04,67.0,5,330000
+Maruti Alto,Maruti,Alto,9,28000,20.92,67.1,5,225000
+Renault KWID,Renault,KWID,4,18000,23.01,67.0,5,265000
+Maruti Wagon R,Maruti,Wagon R,5,40000,20.51,67.04,5,300000
+Maruti Alto,Maruti,Alto,12,46500,19.7,46.3,5,130000
+Maruti Alto,Maruti,Alto,3,20000,23.95,67.05,5,340000
+Renault KWID,Renault,KWID,5,25500,23.01,67.0,5,270000
+Maruti Wagon R,Maruti,Wagon R,16,40000,18.9,67.1,5,75000
+Renault KWID,Renault,KWID,5,20000,25.17,53.3,5,300000
+Maruti Wagon R,Maruti,Wagon R,3,70000,26.6,58.16,5,380000
+Maruti Alto,Maruti,Alto,3,25000,24.7,47.3,5,275000
+Maruti Celerio,Maruti,Celerio,3,14500,23.1,67.04,5,400000
+Renault KWID,Renault,KWID,4,25000,25.17,53.3,5,300000
+Maruti Alto,Maruti,Alto,4,50000,24.7,47.3,5,280000
+Maruti Celerio,Maruti,Celerio,7,67232,23.1,67.04,5,350000
+Maruti Wagon R,Maruti,Wagon R,14,51012,26.2,58.2,5,175000
+Maruti Alto,Maruti,Alto,4,30000,24.7,47.3,5,250000
+Maruti Wagon R,Maruti,Wagon R,7,46652,20.51,67.04,5,290000
+Maruti Wagon R,Maruti,Wagon R,6,20000,20.51,67.0,5,430000
+Maruti Alto,Maruti,Alto,4,10000,24.7,47.3,5,321000
+Renault KWID,Renault,KWID,5,15000,23.01,67.0,5,300000
+Maruti Alto,Maruti,Alto,3,50000,24.7,47.3,5,310000
+Renault KWID,Renault,KWID,2,10000,25.17,53.3,5,350000
+Maruti Alto,Maruti,Alto,9,40000,20.92,67.1,5,224000
+Maruti Wagon R,Maruti,Wagon R,15,45000,21.79,67.05,5,55000
+Maruti Alto,Maruti,Alto,9,70000,19.7,46.3,5,200000
+Maruti Alto,Maruti,Alto,7,37779,24.7,47.3,5,220000
+Renault KWID,Renault,KWID,5,50000,25.17,53.3,5,275000
+Maruti Celerio,Maruti,Celerio,4,40000,23.1,67.04,5,360000
+Maruti Wagon R,Maruti,Wagon R,15,60000,18.9,67.1,5,120000
+Maruti Wagon R,Maruti,Wagon R,4,10000,20.51,67.0,5,410000
+Maruti Alto,Maruti,Alto,15,70000,19.7,46.3,5,70000
+Maruti Celerio,Maruti,Celerio,3,15000,23.1,67.04,5,425000
+Maruti Alto,Maruti,Alto,5,36172,24.7,47.3,5,270000
+Maruti Wagon R,Maruti,Wagon R,3,6000,21.79,67.05,5,400000
+Maruti Alto,Maruti,Alto,3,17000,22.74,47.3,5,315000
+Maruti Alto,Maruti,Alto,8,64000,30.46,47.3,5,225000
+Maruti Alto,Maruti,Alto,9,80416,23.95,67.05,5,240000
+Maruti Alto,Maruti,Alto,9,22215,19.7,46.3,5,170000
+Maruti Wagon R,Maruti,Wagon R,3,40000,20.51,67.04,5,375000
+Maruti Wagon R,Maruti,Wagon R,3,52000,21.79,67.05,5,380000
+Datsun redi-GO,Datsun,redi-GO,1,10000,20.71,53.64,5,349000
+Maruti Wagon R,Maruti,Wagon R,3,9945,20.51,67.0,5,460000
+Maruti Wagon R,Maruti,Wagon R,3,9700,20.51,67.04,5,420000
+Maruti Alto,Maruti,Alto,9,75000,19.7,46.3,5,165000
+Maruti Alto,Maruti,Alto,5,30000,22.74,47.3,5,240000
+Maruti Wagon R,Maruti,Wagon R,9,56890,18.9,67.1,5,220000
+Renault KWID,Renault,KWID,1,23323,22.3,53.26,5,430000
+Maruti Alto,Maruti,Alto,13,100000,19.7,46.3,5,80000
+Renault KWID,Renault,KWID,2,4500,24.04,67.0,5,500000
+Maruti Alto,Maruti,Alto,8,33682,22.74,47.3,5,235000
+Renault KWID,Renault,KWID,3,20000,24.04,67.0,5,330000
+Maruti Wagon R,Maruti,Wagon R,8,72000,18.9,67.1,5,290000
+Renault KWID,Renault,KWID,5,60000,23.01,67.0,5,215000
+Maruti Wagon R,Maruti,Wagon R,5,37500,20.51,67.04,5,350000
+Maruti Wagon R,Maruti,Wagon R,5,40000,20.51,67.04,5,325000
+Maruti Wagon R,Maruti,Wagon R,5,58000,20.51,67.04,5,350000
+Maruti Alto,Maruti,Alto,7,40000,22.74,47.3,5,250000
+Maruti Celerio,Maruti,Celerio,4,50000,23.1,67.04,5,350000
+Maruti Wagon R,Maruti,Wagon R,5,20673,18.9,67.1,5,350000
+Renault KWID,Renault,KWID,1,25000,23.01,67.0,5,300000
+Maruti Wagon R,Maruti,Wagon R,9,60000,18.9,67.1,5,220000
+Maruti Wagon R,Maruti,Wagon R,10,130890,18.9,67.1,5,160000
+Maruti Wagon R,Maruti,Wagon R,5,34500,20.51,67.04,5,375000
+Maruti Alto,Maruti,Alto,4,10000,23.95,67.1,5,340000
+Renault KWID,Renault,KWID,4,30000,25.17,53.3,5,300000
+Maruti Wagon R,Maruti,Wagon R,15,49256,21.79,67.05,5,111000
+Maruti Alto,Maruti,Alto,12,50000,19.7,46.3,5,175000
+Maruti Wagon R,Maruti,Wagon R,7,21980,20.51,67.04,5,290000
+Maruti Alto,Maruti,Alto,12,30000,19.7,46.3,5,150000
+Maruti Alto,Maruti,Alto,3,5000,24.7,47.3,5,325000
+Maruti Wagon R,Maruti,Wagon R,11,80875,18.9,67.1,5,250000
+Hyundai Venue,Hyundai,Venue,2,10000,18.27,118.35,5,950000
+Maruti Wagon R,Maruti,Wagon R,21,120000,18.9,67.1,5,95000
+Maruti Alto,Maruti,Alto,2,20000,23.95,67.05,5,330000
+Maruti Wagon R,Maruti,Wagon R,4,50000,20.51,67.04,5,370000
+Maruti Alto,Maruti,Alto,9,61043,19.7,46.3,5,210000
+Maruti Wagon R,Maruti,Wagon R,8,16000,20.51,67.04,5,299000
+Maruti Wagon R,Maruti,Wagon R,5,60000,20.51,67.04,5,324000
+Maruti Alto,Maruti,Alto,4,36000,24.7,47.3,5,275000
+Renault KWID,Renault,KWID,5,45049,25.17,53.3,5,320000
+Maruti Alto,Maruti,Alto,5,10000,23.95,67.05,5,316000
+Maruti Wagon R,Maruti,Wagon R,3,30000,20.51,67.04,5,390000
+Maruti Wagon R,Maruti,Wagon R,3,25000,20.51,67.04,5,400000
+Maruti Wagon R,Maruti,Wagon R,11,50000,18.9,67.1,5,260000
+Maruti Alto,Maruti,Alto,2,8000,22.05,47.3,5,335000
+Renault KWID,Renault,KWID,2,15000,25.17,53.3,5,375000
+Datsun RediGO,Datsun,RediGO,3,14000,23.0,67.0,5,349000
+Datsun RediGO,Datsun,RediGO,3,25000,22.7,53.64,5,225000
+Maruti Alto,Maruti,Alto,2,5000,23.95,67.05,5,390000
+Maruti Alto,Maruti,Alto,7,50000,22.74,47.3,5,240000
+Renault KWID,Renault,KWID,4,25000,23.01,67.0,5,285000
+Maruti Wagon R,Maruti,Wagon R,9,37000,18.9,67.1,5,250000
+Maruti Alto,Maruti,Alto,6,40000,23.95,67.05,5,250000
+Renault KWID,Renault,KWID,3,12000,25.17,53.3,5,330000
+Renault KWID,Renault,KWID,4,9748,23.01,67.0,5,350000
+Hyundai Venue,Hyundai,Venue,1,2600,18.27,118.35,5,950000
+Ford Ecosport,Ford,Ecosport,8,34000,18.88,123.37,5,550000
+Maruti Wagon R,Maruti,Wagon R,5,16000,20.51,67.04,5,329000
+Maruti Alto,Maruti,Alto,11,60000,19.7,46.3,5,200000
+Maruti Alto,Maruti,Alto,7,110000,22.74,47.3,5,180000
+Maruti Alto,Maruti,Alto,6,50000,30.46,47.3,5,240000
+Renault KWID,Renault,KWID,2,12123,23.01,67.0,5,375000
+Renault KWID,Renault,KWID,5,35000,25.17,53.3,5,250000
+Maruti Wagon R,Maruti,Wagon R,4,35000,21.79,67.05,5,350000
+Maruti Alto,Maruti,Alto,6,20000,22.74,47.3,5,230000
+Renault KWID,Renault,KWID,5,15000,23.01,67.0,5,370000
+Maruti Alto,Maruti,Alto,3,20000,23.95,67.05,5,310000
+Maruti Alto,Maruti,Alto,6,28882,23.95,67.05,5,310000
+Renault KWID,Renault,KWID,3,38000,25.17,53.3,5,345000
+Maruti Alto,Maruti,Alto,3,15000,24.7,47.3,5,265000
+Maruti Celerio,Maruti,Celerio,2,20000,23.1,67.04,5,565000
+Maruti Alto,Maruti,Alto,9,40000,19.7,46.3,5,170000
+Maruti Wagon R,Maruti,Wagon R,7,36000,21.79,67.05,5,310000
+Datsun RediGO,Datsun,RediGO,4,13000,22.7,53.64,5,215000
+Renault KWID,Renault,KWID,2,4269,24.04,67.0,5,415000
+Maruti Celerio,Maruti,Celerio,4,39000,23.1,67.04,5,425000
+Renault KWID,Renault,KWID,5,28842,25.17,53.3,5,350000
+Maruti Wagon R,Maruti,Wagon R,3,60000,26.6,58.16,5,355000
+Maruti Wagon R,Maruti,Wagon R,11,80000,26.2,58.2,5,220000
+Maruti Alto,Maruti,Alto,11,20000,19.7,46.3,5,150000
+Maruti Alto,Maruti,Alto,9,70000,19.7,46.3,5,170000
+Maruti Alto,Maruti,Alto,12,110000,19.7,46.3,5,110000
+Maruti Alto,Maruti,Alto,4,60000,24.7,47.3,5,250000
+Maruti Alto,Maruti,Alto,3,20000,24.7,47.3,5,310000
+Maruti Wagon R,Maruti,Wagon R,8,70000,20.51,67.04,5,250000
+Maruti Baleno,Maruti,Baleno,4,120000,21.1,100.0,5,500000
+Maruti Wagon R,Maruti,Wagon R,9,43000,21.79,67.05,5,245000
+Maruti Alto,Maruti,Alto,10,25000,19.7,46.3,5,160000
+Datsun redi-GO,Datsun,redi-GO,3,2300,20.71,53.64,5,325000
+Maruti Alto,Maruti,Alto,4,14870,24.7,47.3,5,298000
+Renault KWID,Renault,KWID,4,30000,24.04,67.0,5,320000
+Maruti Wagon R,Maruti,Wagon R,7,54099,18.9,67.1,5,280000
+Maruti Alto,Maruti,Alto,9,19455,19.7,46.3,5,185000
+Maruti Wagon R,Maruti,Wagon R,4,5388,20.51,67.04,5,409000
+Renault KWID,Renault,KWID,3,23000,23.01,67.0,5,310000
+Datsun RediGO,Datsun,RediGO,4,30000,22.7,53.64,5,275000
+Maruti Wagon R,Maruti,Wagon R,4,10000,18.9,67.1,5,399000
+Maruti Alto,Maruti,Alto,11,80000,26.83,38.4,5,150000
+Maruti Wagon R,Maruti,Wagon R,8,44400,21.79,67.05,5,300000
+Maruti Alto,Maruti,Alto,11,48679,19.7,46.3,5,130000
+Maruti Alto,Maruti,Alto,11,100000,19.7,46.3,5,160000
+Datsun RediGO,Datsun,RediGO,4,21300,22.7,53.64,5,230000
+Maruti Alto,Maruti,Alto,5,68102,23.95,67.05,5,365000
+Maruti Wagon R,Maruti,Wagon R,4,23967,21.79,67.05,5,295000
+Maruti Wagon R,Maruti,Wagon R,9,50000,18.9,67.1,5,265000
+Maruti Wagon R,Maruti,Wagon R,6,25000,18.9,67.1,5,350000
+Maruti Wagon R,Maruti,Wagon R,10,76239,26.2,58.2,5,260000
+Maruti Alto,Maruti,Alto,6,30000,22.74,47.3,5,210000
+Renault KWID,Renault,KWID,5,22000,25.17,53.3,5,300000
+Datsun RediGO,Datsun,RediGO,4,16000,22.7,53.64,5,225000
+Maruti Alto,Maruti,Alto,9,105800,20.92,67.1,5,160000
+Maruti Alto,Maruti,Alto,4,20000,23.95,67.05,5,350000
+Maruti Celerio,Maruti,Celerio,4,20500,23.1,67.04,5,350000
+Maruti Alto,Maruti,Alto,6,32000,22.74,47.3,5,300000
+Renault KWID,Renault,KWID,3,34000,25.17,53.3,5,285000
+Maruti Wagon R,Maruti,Wagon R,5,40000,20.51,67.04,5,300000
+Hyundai Venue,Hyundai,Venue,1,5000,18.15,118.35,5,1100000
+Maruti Alto,Maruti,Alto,4,42691,24.7,47.3,5,300000
+Maruti Wagon R,Maruti,Wagon R,11,74804,18.9,67.1,5,275000
+Maruti Alto,Maruti,Alto,12,35000,19.7,46.3,5,225000
+Maruti Wagon R,Maruti,Wagon R,10,30000,18.9,67.1,5,215000
+Maruti Alto,Maruti,Alto,6,38568,22.74,47.3,5,225000
+Maruti Wagon R,Maruti,Wagon R,8,61996,20.51,67.04,5,300000
+Maruti Wagon R,Maruti,Wagon R,5,32000,18.9,67.1,5,350000
+Maruti Alto,Maruti,Alto,5,29000,22.74,47.3,5,240000
+Maruti Alto,Maruti,Alto,10,68203,23.95,67.05,5,210000
+Renault KWID,Renault,KWID,4,9265,23.01,67.0,5,350000
+Maruti Alto,Maruti,Alto,15,90000,19.7,46.3,5,110000
+Maruti Alto,Maruti,Alto,5,50000,23.95,67.05,5,280000
+Maruti Alto,Maruti,Alto,8,46783,30.46,47.3,5,210000
+Maruti Alto,Maruti,Alto,2,40000,24.7,47.3,5,290000
+Maruti Alto,Maruti,Alto,7,80000,22.74,47.3,5,210000
+Maruti Alto,Maruti,Alto,5,13000,22.74,47.3,5,250000
+Maruti Alto,Maruti,Alto,4,11000,24.7,47.3,5,285000
+Maruti Wagon R,Maruti,Wagon R,12,36259,18.9,67.1,5,129000
+Maruti Celerio,Maruti,Celerio,4,4000,23.1,67.04,5,478000
+Maruti Wagon R,Maruti,Wagon R,10,78000,26.2,58.2,5,210000
+Maruti Wagon R,Maruti,Wagon R,6,32000,18.9,67.1,5,350000
+Maruti Alto,Maruti,Alto,4,18000,24.7,47.3,5,270000
+Maruti Alto,Maruti,Alto,5,30000,23.95,67.05,5,300000
+Maruti Celerio,Maruti,Celerio,4,19000,23.1,67.04,5,410000
+Maruti Wagon R,Maruti,Wagon R,5,68000,26.2,58.2,5,320000
+Maruti Alto,Maruti,Alto,6,49163,22.74,47.3,5,285000
+Maruti Alto,Maruti,Alto,13,60000,19.7,46.3,5,97000
+Maruti Alto,Maruti,Alto,3,10000,23.95,67.05,5,320000
+Maruti Wagon R,Maruti,Wagon R,9,60000,18.9,67.1,5,235000
+Datsun RediGO,Datsun,RediGO,4,27500,22.7,53.64,5,206000
+Maruti Wagon R,Maruti,Wagon R,18,150000,18.9,67.1,5,65000
+Maruti Wagon R,Maruti,Wagon R,4,3192,20.51,67.04,5,415000
+Renault KWID,Renault,KWID,5,30000,25.17,53.3,5,225000
+Maruti Celerio,Maruti,Celerio,7,43500,23.1,67.04,5,319000
+Maruti Wagon R,Maruti,Wagon R,2,15000,20.51,67.04,5,420000
+Maruti Alto,Maruti,Alto,9,11500,20.92,67.1,5,210000
+Renault KWID,Renault,KWID,2,7000,24.04,67.0,5,490000
+Maruti Wagon R,Maruti,Wagon R,4,60000,26.6,58.16,5,320000
+Maruti Celerio,Maruti,Celerio,6,11668,23.1,67.04,5,325000
+Maruti Celerio,Maruti,Celerio,4,40000,23.1,67.04,5,420000
+Renault Triber,Renault,Triber,2,23000,20.0,72.0,7,550000
+Maruti Alto,Maruti,Alto,11,72000,26.83,38.4,5,125000
+Maruti Baleno,Maruti,Baleno,2,6500,21.1,100.5,5,730000
+Renault KWID,Renault,KWID,5,10000,25.17,53.3,5,220000
+Renault KWID,Renault,KWID,5,27000,25.17,53.3,5,350000
+Maruti Alto,Maruti,Alto,12,68000,19.7,46.3,5,130000
+Maruti Alto,Maruti,Alto,13,35000,19.7,46.3,5,140000
+Datsun RediGO,Datsun,RediGO,3,14001,23.0,67.0,5,349000
+Renault KWID,Renault,KWID,3,25000,24.04,67.0,5,370000
+Maruti Alto,Maruti,Alto,6,48000,22.74,47.3,5,215000
+Maruti Wagon R,Maruti,Wagon R,14,53000,21.79,67.05,5,175000
+Maruti Alto,Maruti,Alto,10,15000,19.7,46.3,5,156000
+Maruti Celerio,Maruti,Celerio,2,15000,23.1,67.04,5,450000
+Maruti Alto,Maruti,Alto,5,16000,24.7,47.3,5,325000
+Maruti Alto,Maruti,Alto,4,20000,24.7,47.3,5,250000
+Renault KWID,Renault,KWID,6,30000,25.17,53.3,5,200000
+Maruti Wagon R,Maruti,Wagon R,5,38000,21.79,67.05,5,335000
+Maruti Wagon R,Maruti,Wagon R,12,42000,18.9,67.1,5,180000
+Maruti Alto,Maruti,Alto,10,115000,19.7,46.3,5,125000
+Maruti Alto,Maruti,Alto,8,70000,22.74,47.3,5,170000
+Renault KWID,Renault,KWID,5,35000,25.17,53.3,5,240000
+Maruti Celerio,Maruti,Celerio,5,24262,23.1,67.04,5,460000
+Maruti Wagon R,Maruti,Wagon R,5,29000,20.51,67.04,5,365000
+Maruti Alto,Maruti,Alto,10,70000,20.92,67.1,5,150000
+Maruti Alto,Maruti,Alto,2,10000,23.95,67.1,5,360000
+Ford Ecosport,Ford,Ecosport,6,104278,18.88,123.37,5,590000
+Maruti Celerio,Maruti,Celerio,5,35000,23.1,67.04,5,385000
+Maruti Alto,Maruti,Alto,13,50000,19.7,46.3,5,104000
+Maruti Wagon R,Maruti,Wagon R,5,11799,20.51,67.04,5,360000
+Volkswagen Polo,Volkswagen,Polo,3,19000,18.78,75.0,5,599000
+Maruti Alto,Maruti,Alto,14,120000,19.7,46.3,5,90000
+Maruti Wagon R,Maruti,Wagon R,7,40000,20.51,67.04,5,295000
+Maruti Wagon R,Maruti,Wagon R,8,120000,20.51,67.04,5,220000
+Maruti Wagon R,Maruti,Wagon R,3,3944,20.51,67.0,5,485000
+Maruti Wagon R,Maruti,Wagon R,7,42290,20.51,67.04,5,310000
+Maruti Alto,Maruti,Alto,3,57199,23.95,67.05,5,378000
+Maruti Wagon R,Maruti,Wagon R,2,19022,33.54,67.04,5,470000
+Maruti Wagon R,Maruti,Wagon R,12,60000,21.79,67.05,5,150000
+Maruti Wagon R,Maruti,Wagon R,6,48000,20.51,67.0,5,380000
+Maruti Wagon R,Maruti,Wagon R,8,58000,20.51,67.04,5,320000
+Maruti Wagon R,Maruti,Wagon R,10,41000,20.51,67.04,5,210000
+Maruti Wagon R,Maruti,Wagon R,7,58000,20.51,67.04,5,300000
+Renault KWID,Renault,KWID,4,30254,25.17,53.3,5,265000
+Maruti Celerio,Maruti,Celerio,4,40000,31.79,58.2,5,475000
+Maruti Celerio,Maruti,Celerio,5,2000,23.1,67.04,5,466000
+Maruti Wagon R,Maruti,Wagon R,4,56000,26.6,58.16,5,365000
+Maruti Alto,Maruti,Alto,15,124000,19.7,46.3,5,85000
+Maruti Alto,Maruti,Alto,1,10326,19.7,46.3,5,350000
+Maruti Wagon R,Maruti,Wagon R,3,93000,26.6,58.16,5,350000
+Maruti Alto,Maruti,Alto,12,35000,19.7,46.3,5,100000
+Maruti Wagon R,Maruti,Wagon R,3,40000,20.51,67.0,5,400000
+Maruti Wagon R,Maruti,Wagon R,7,85000,21.79,67.05,5,325000
+Maruti Wagon R,Maruti,Wagon R,8,52000,18.9,67.1,5,270000
+Maruti Alto,Maruti,Alto,5,27648,32.26,58.3,4,325000
+Maruti Alto,Maruti,Alto,11,62000,19.7,46.3,5,160000
+Ford Ecosport,Ford,Ecosport,8,35225,18.88,123.37,5,480000
+Maruti Wagon R,Maruti,Wagon R,8,63000,26.6,58.16,5,250000
+Maruti Celerio,Maruti,Celerio,5,69000,31.79,58.2,5,375000
+Maruti Celerio,Maruti,Celerio,2,35000,23.1,67.04,5,480000
+Renault KWID,Renault,KWID,2,13931,20.71,53.26,5,345000
+Datsun RediGO,Datsun,RediGO,5,36000,22.7,53.64,5,235000
+Maruti Alto,Maruti,Alto,4,28239,33.44,40.3,4,315000
+Maruti Alto,Maruti,Alto,8,15000,22.74,47.3,5,189000
+Maruti Wagon R,Maruti,Wagon R,6,37499,21.79,67.05,5,350000
+Maruti Alto,Maruti,Alto,4,50000,23.95,67.05,5,298000
+Maruti Wagon R,Maruti,Wagon R,9,49000,20.51,67.04,5,231000
+Maruti Wagon R,Maruti,Wagon R,9,65000,21.79,67.05,5,230000
+Hyundai Venue,Hyundai,Venue,2,12000,18.0,118.35,5,1050000
+Maruti Wagon R,Maruti,Wagon R,3,33955,33.54,67.04,5,425000
+Maruti Wagon R,Maruti,Wagon R,7,86461,20.51,67.04,5,290000
+Renault KWID,Renault,KWID,3,40746,25.17,53.3,5,300000
+Hyundai Venue,Hyundai,Venue,2,17000,18.27,118.35,5,875000
+Maruti Alto,Maruti,Alto,8,13910,20.92,67.1,5,230000
+Maruti Wagon R,Maruti,Wagon R,6,79855,20.51,67.04,5,347000
+Maruti Alto,Maruti,Alto,10,22500,19.7,46.3,5,120000
+Maruti Alto,Maruti,Alto,15,20000,19.7,46.3,5,85000
+Maruti Celerio,Maruti,Celerio,3,15161,21.63,67.04,5,485000
+Maruti Wagon R,Maruti,Wagon R,4,33200,26.2,58.2,5,350000
+Maruti Celerio,Maruti,Celerio,5,36000,23.1,67.04,5,375000
+Renault KWID,Renault,KWID,4,43616,25.17,53.3,5,290000
+Datsun redi-GO,Datsun,redi-GO,5,47000,20.71,53.64,5,299000
+Maruti Wagon R,Maruti,Wagon R,10,52000,26.2,58.2,5,210000
+Renault KWID,Renault,KWID,3,33124,25.17,53.3,5,335000
+Maruti Wagon R,Maruti,Wagon R,7,64000,18.9,67.1,5,265000
+Maruti Alto,Maruti,Alto,6,15000,22.74,47.3,5,275000
+Maruti Wagon R,Maruti,Wagon R,4,47000,20.51,67.0,5,390000
+Maruti Wagon R,Maruti,Wagon R,6,52000,21.79,67.05,5,310000
+Hyundai Venue,Hyundai,Venue,1,1200,18.27,118.35,5,1075000
+Maruti Wagon R,Maruti,Wagon R,8,40000,18.9,67.1,5,285000
+Maruti Wagon R,Maruti,Wagon R,8,64000,26.6,58.16,5,270000
+Maruti Celerio,Maruti,Celerio,6,63000,23.1,67.04,5,385000
+Maruti Wagon R,Maruti,Wagon R,9,62443,18.9,67.1,5,235000
+Maruti Alto,Maruti,Alto,14,40000,19.7,46.3,5,80000
+Renault KWID,Renault,KWID,5,45000,23.01,67.0,5,225000
+Maruti Wagon R,Maruti,Wagon R,5,77950,26.6,58.16,5,340000
+Maruti Wagon R,Maruti,Wagon R,7,51000,32.52,58.33,5,245000
+Maruti Alto,Maruti,Alto,5,30265,30.46,47.3,5,295000
+Maruti Alto,Maruti,Alto,11,40000,19.7,46.3,5,170000
+Maruti Wagon R,Maruti,Wagon R,9,69000,21.79,67.05,5,300000
+Maruti Wagon R,Maruti,Wagon R,5,46613,20.51,67.04,5,345000
+Maruti Wagon R,Maruti,Wagon R,5,37208,33.54,67.04,5,365000
+Maruti Alto,Maruti,Alto,9,42489,20.92,67.1,5,235000
+Maruti Wagon R,Maruti,Wagon R,6,56931,20.51,67.04,5,320000
+Maruti Celerio,Maruti,Celerio,6,34000,23.1,67.04,5,365000
+Maruti Wagon R,Maruti,Wagon R,7,50000,20.51,67.04,5,300000
+Maruti Wagon R,Maruti,Wagon R,6,33000,20.51,67.04,5,425000
+Maruti Wagon R,Maruti,Wagon R,7,47000,18.9,67.1,5,260000
+Maruti Wagon R,Maruti,Wagon R,3,55000,33.54,67.04,5,380000
+Maruti Wagon R,Maruti,Wagon R,5,61193,18.9,67.1,5,365000
+Maruti Celerio,Maruti,Celerio,2,30000,21.63,67.04,5,420000
+Maruti Celerio,Maruti,Celerio,5,2200,23.1,67.04,5,465000
+Maruti Wagon R,Maruti,Wagon R,5,58000,18.9,67.1,5,299000
+Maruti Alto,Maruti,Alto,3,9800,22.74,47.3,5,320000
+Maruti Alto,Maruti,Alto,8,30000,23.95,67.05,5,249000
+Maruti Alto,Maruti,Alto,6,90000,30.46,47.3,5,216000
+Renault KWID,Renault,KWID,5,46583,25.17,53.3,5,280000
+Maruti Celerio,Maruti,Celerio,3,47064,23.1,67.04,5,525000
+Hyundai Venue,Hyundai,Venue,2,26000,18.15,118.35,5,1095000
+Maruti Alto,Maruti,Alto,6,38000,22.74,47.3,5,245000
+Hyundai Venue,Hyundai,Venue,1,581,18.0,118.35,5,1145000
+Maruti Wagon R,Maruti,Wagon R,12,63000,20.51,67.04,5,129000
+Maruti Wagon R,Maruti,Wagon R,13,67000,21.79,67.05,5,129000
+Maruti Alto,Maruti,Alto,6,36390,22.74,47.3,5,255000
+Maruti Alto,Maruti,Alto,8,70000,22.74,47.3,5,157000
+Hyundai Venue,Hyundai,Venue,2,27000,18.27,118.35,5,995000
+Maruti Wagon R,Maruti,Wagon R,9,72300,21.79,67.05,5,249000
+Renault Triber,Renault,Triber,2,2709,20.0,71.0,7,575000
+Maruti Alto,Maruti,Alto,9,62351,20.92,67.1,5,209000
+Maruti Wagon R,Maruti,Wagon R,9,54000,18.9,67.1,5,275000
+Maruti Wagon R,Maruti,Wagon R,3,30000,21.79,67.05,5,415000
+Datsun RediGO,Datsun,RediGO,4,37001,22.7,53.64,5,245000
+Datsun RediGO,Datsun,RediGO,3,49000,22.7,53.64,5,295000
+Renault KWID,Renault,KWID,3,11051,23.01,67.0,5,365000
+Maruti Wagon R,Maruti,Wagon R,7,46000,20.51,67.04,5,320000
+Hyundai Venue,Hyundai,Venue,1,13000,18.27,118.35,5,995000
+Renault KWID,Renault,KWID,5,76000,25.17,53.3,5,210000
+Hyundai Venue,Hyundai,Venue,2,19500,18.15,118.35,5,1100000
+Hyundai Venue,Hyundai,Venue,2,9500,18.27,118.35,5,835000
+Maruti Alto,Maruti,Alto,13,75000,19.7,46.3,5,125000
+Maruti Alto,Maruti,Alto,7,60000,22.74,47.3,5,200000
+Maruti Wagon R,Maruti,Wagon R,6,71000,26.6,58.16,5,285000
+Maruti Alto,Maruti,Alto,3,14000,23.95,67.05,5,350000
+Maruti Wagon R,Maruti,Wagon R,6,30000,32.52,58.33,5,350000
+Hyundai Venue,Hyundai,Venue,2,27000,18.27,118.35,5,995000
+Maruti Celerio,Maruti,Celerio,3,20067,23.1,67.04,5,410000
+Renault KWID,Renault,KWID,4,20000,23.01,67.0,5,375000
+Hyundai Venue,Hyundai,Venue,2,26000,18.15,118.35,5,1000000
+Maruti Alto,Maruti,Alto,5,50000,23.95,67.05,5,335000
+Maruti Wagon R,Maruti,Wagon R,7,86000,18.9,67.1,5,315000
+Maruti Wagon R,Maruti,Wagon R,9,71000,33.54,67.04,5,275000
+Maruti Alto,Maruti,Alto,2,33000,23.95,67.05,5,375000
+Renault KWID,Renault,KWID,3,48353,25.17,53.3,5,247000
+Renault KWID,Renault,KWID,5,27000,25.17,53.3,5,265000
+Hyundai Venue,Hyundai,Venue,2,27589,18.27,118.35,5,1040000
+Datsun redi-GO,Datsun,redi-GO,5,50000,21.7,67.05,5,325000
+Maruti Alto,Maruti,Alto,8,42000,20.92,67.1,5,225000
+Maruti Wagon R,Maruti,Wagon R,6,20000,20.51,67.04,5,325000
+Maruti Wagon R,Maruti,Wagon R,4,75000,33.54,67.04,5,375000
+Maruti Alto,Maruti,Alto,9,65000,30.46,47.3,5,175000
+Maruti Alto,Maruti,Alto,10,24895,20.92,67.1,5,185000
+Hyundai Venue,Hyundai,Venue,2,27000,18.27,118.35,5,1025000
+Maruti Wagon R,Maruti,Wagon R,7,20000,20.51,67.04,5,300000
+Maruti Alto,Maruti,Alto,1,2200,24.7,47.3,5,360000
+Maruti Wagon R,Maruti,Wagon R,5,37485,18.9,67.1,5,365000
+Maruti Wagon R,Maruti,Wagon R,9,47000,18.9,67.1,5,245000
+Maruti Wagon R,Maruti,Wagon R,3,29000,20.51,67.04,5,400000
+Maruti Wagon R,Maruti,Wagon R,4,42000,21.79,67.05,5,360000
+Maruti Alto,Maruti,Alto,5,70000,22.74,47.3,5,299000
+Datsun RediGO,Datsun,RediGO,5,41000,22.7,53.64,5,215000
+Maruti Wagon R,Maruti,Wagon R,8,61000,26.2,58.2,5,275000
+Maruti Wagon R,Maruti,Wagon R,4,11615,20.51,67.0,5,440000
+Maruti Alto,Maruti,Alto,14,25000,19.7,46.3,5,100000
+Maruti Wagon R,Maruti,Wagon R,3,52000,26.6,58.16,5,435000
+Maruti Alto,Maruti,Alto,14,35000,19.7,46.3,5,100000
+Maruti Alto,Maruti,Alto,8,39000,20.92,67.1,5,225000
+Maruti Alto,Maruti,Alto,11,50000,19.7,46.3,5,135000
+Maruti Alto,Maruti,Alto,7,2620,22.74,47.3,5,275000
+Maruti Wagon R,Maruti,Wagon R,6,47000,18.9,67.1,5,325000
+Maruti Alto,Maruti,Alto,9,60943,20.92,67.1,5,265000
+Maruti Wagon R,Maruti,Wagon R,9,61000,26.6,58.16,5,240000
+Maruti Celerio,Maruti,Celerio,2,60000,31.79,58.33,5,400000
+Maruti Wagon R,Maruti,Wagon R,11,73000,26.6,58.16,5,210000
+Maruti Wagon R,Maruti,Wagon R,5,55000,32.52,58.33,5,325000
+Maruti Alto,Maruti,Alto,8,30764,23.95,67.05,5,250000
+Maruti Alto,Maruti,Alto,7,41000,22.74,47.3,5,225000
+Maruti Alto,Maruti,Alto,10,64100,20.92,67.1,5,210000
+Maruti Alto,Maruti,Alto,12,63000,19.7,46.3,5,140000
+Maruti Wagon R,Maruti,Wagon R,2,36000,21.79,67.05,5,410000
+Maruti Wagon R,Maruti,Wagon R,13,61400,18.9,67.1,5,128000
+Maruti Alto,Maruti,Alto,8,68000,33.44,40.3,4,150000
+Datsun RediGO,Datsun,RediGO,4,20000,22.7,53.64,5,225000
+Maruti Wagon R,Maruti,Wagon R,1,9000,26.6,58.16,5,545000
+Maruti Alto,Maruti,Alto,6,29437,22.74,47.3,5,265000
+Maruti Celerio,Maruti,Celerio,3,47000,21.63,67.05,5,525000
+Maruti Celerio,Maruti,Celerio,6,20934,23.1,67.04,5,360000
+Maruti Wagon R,Maruti,Wagon R,12,63000,21.79,67.05,5,125000
+Maruti Wagon R,Maruti,Wagon R,8,63000,32.52,58.33,5,250000
+Maruti Celerio,Maruti,Celerio,7,53412,23.1,67.04,5,300000
+Maruti Celerio,Maruti,Celerio,3,41000,21.63,67.04,5,400000
+Hyundai Venue,Hyundai,Venue,2,10000,18.27,118.35,5,870000
+Maruti Alto,Maruti,Alto,10,60000,20.92,67.1,5,195000
+Maruti Alto,Maruti,Alto,8,38000,22.74,47.3,5,190000
+Maruti Wagon R,Maruti,Wagon R,8,61154,20.51,67.04,5,255000
+Maruti Wagon R,Maruti,Wagon R,4,25396,20.51,67.0,5,410000
+Maruti Alto,Maruti,Alto,8,68450,22.74,47.3,5,245000
+Maruti Wagon R,Maruti,Wagon R,4,55271,26.2,58.2,5,365000
+Renault KWID,Renault,KWID,5,12000,25.17,53.3,5,275000
+Maruti Alto,Maruti,Alto,13,92000,19.7,46.3,5,115000
+Renault KWID,Renault,KWID,4,36000,25.17,53.3,5,320000
+Maruti Wagon R,Maruti,Wagon R,3,38000,26.6,58.16,5,415000
+Maruti Alto,Maruti,Alto,5,35286,23.95,67.05,5,331000
+Maruti Celerio,Maruti,Celerio,5,12957,23.1,67.04,5,400000
+Renault KWID,Renault,KWID,2,14000,23.01,67.0,5,390000
+Maruti Alto,Maruti,Alto,7,58001,22.74,47.3,5,215000
+Maruti Alto,Maruti,Alto,7,40000,23.95,67.05,5,235000
+Maruti Wagon R,Maruti,Wagon R,4,36954,26.6,58.16,5,350000
+Maruti Wagon R,Maruti,Wagon R,8,36900,21.79,67.05,5,265000
+Maruti Wagon R,Maruti,Wagon R,3,7000,20.51,67.06,5,410000
+Maruti Wagon R,Maruti,Wagon R,6,128000,26.6,58.16,5,283000
+Maruti Celerio,Maruti,Celerio,2,40000,30.47,58.33,5,465000
+Maruti Wagon R,Maruti,Wagon R,12,70962,18.9,67.1,5,145000
+Maruti Alto,Maruti,Alto,8,60000,22.74,47.3,5,185000
+Maruti Alto,Maruti,Alto,4,11000,23.95,67.05,5,325000
+Maruti Celerio,Maruti,Celerio,4,26000,23.1,67.04,5,400000
+Maruti Celerio,Maruti,Celerio,6,33000,23.1,67.04,5,370000
+Maruti Wagon R,Maruti,Wagon R,5,120000,20.51,67.04,5,300000
+Datsun RediGO,Datsun,RediGO,2,2500,22.7,53.64,5,300000
+Maruti Alto,Maruti,Alto,7,62488,20.92,67.1,5,235000
+Maruti Wagon R,Maruti,Wagon R,1,7640,21.79,67.05,5,460000
+Maruti Alto,Maruti,Alto,10,57000,26.83,38.4,5,172000
+Maruti Alto,Maruti,Alto,4,110000,23.95,67.1,5,250000
+Maruti Wagon R,Maruti,Wagon R,6,62000,18.9,67.1,5,265000
+Maruti Alto,Maruti,Alto,6,45000,23.95,67.05,5,320000
+Maruti Wagon R,Maruti,Wagon R,10,71000,20.51,67.04,5,220000
+Datsun redi-GO,Datsun,redi-GO,4,17000,20.71,53.64,5,280000
+Datsun RediGO,Datsun,RediGO,4,24719,22.7,53.64,5,260000
+Volkswagen Polo,Volkswagen,Polo,2,32000,18.78,75.0,5,600000
+Renault KWID,Renault,KWID,6,43719,22.3,53.26,5,245000
+Ford Ecosport,Ford,Ecosport,5,56000,18.88,123.24,5,675000
+Maruti Wagon R,Maruti,Wagon R,5,56302,26.6,58.16,5,280000
+Maruti Wagon R,Maruti,Wagon R,6,51000,26.2,58.2,5,300000
+Maruti Alto,Maruti,Alto,12,73000,19.7,46.3,5,135000
+Maruti Wagon R,Maruti,Wagon R,12,60000,21.79,67.05,5,140000
+Maruti Wagon R,Maruti,Wagon R,10,60000,18.9,67.1,5,220000
+Maruti Alto,Maruti,Alto,14,90000,19.7,46.3,5,80000
+Maruti Wagon R,Maruti,Wagon R,8,55000,21.79,67.05,5,250000
+Maruti Alto,Maruti,Alto,7,25000,22.74,47.3,5,265000
+Maruti Alto,Maruti,Alto,3,43063,24.7,47.3,5,260000
+Maruti Wagon R,Maruti,Wagon R,8,25840,20.51,67.04,5,300000
+Maruti Celerio,Maruti,Celerio,4,90000,31.79,58.2,5,380000
+Maruti Wagon R,Maruti,Wagon R,5,65000,33.54,67.04,5,310000
+Maruti Wagon R,Maruti,Wagon R,3,29000,21.79,67.05,5,365000
+Maruti Alto,Maruti,Alto,6,19668,23.95,67.05,5,300000
+Maruti Alto,Maruti,Alto,2,5863,23.95,67.05,5,375000
+Maruti Wagon R,Maruti,Wagon R,8,51916,32.52,58.33,5,295000
+Maruti Wagon R,Maruti,Wagon R,5,52000,20.51,67.04,5,300000
+Maruti Wagon R,Maruti,Wagon R,10,57000,26.2,58.2,5,210000
+Maruti Alto,Maruti,Alto,5,40000,22.74,47.3,5,260000
+Maruti Alto,Maruti,Alto,3,25000,23.95,67.05,5,330000
+Maruti Wagon R,Maruti,Wagon R,15,90000,18.9,67.1,5,82875
+Maruti Wagon R,Maruti,Wagon R,13,71000,20.51,67.04,5,115000
+Maruti Wagon R,Maruti,Wagon R,13,70000,21.79,67.05,5,124000
+Maruti Alto,Maruti,Alto,6,25864,22.74,47.3,5,265000
+Renault KWID,Renault,KWID,4,31851,25.17,53.3,5,278000
+Renault KWID,Renault,KWID,5,22779,25.17,53.3,5,300000
+Maruti Alto,Maruti,Alto,2,25000,24.7,47.3,5,300000
+Renault KWID,Renault,KWID,4,20000,22.3,53.26,5,275000
+Maruti Alto,Maruti,Alto,6,56660,23.95,67.05,5,250000
+Renault KWID,Renault,KWID,3,8000,25.17,53.3,5,300000
+Maruti Wagon R,Maruti,Wagon R,6,53000,26.2,58.2,5,350000
+Maruti Celerio,Maruti,Celerio,4,24513,21.63,67.04,5,525000
+Maruti Wagon R,Maruti,Wagon R,6,23853,21.79,67.05,5,460000
+Renault KWID,Renault,KWID,4,22000,23.01,67.0,5,295000
+Maruti Alto,Maruti,Alto,7,70000,22.74,47.3,5,175000
+Maruti Wagon R,Maruti,Wagon R,3,15000,20.51,67.04,5,440000
+Maruti Celerio,Maruti,Celerio,6,57226,23.1,67.04,5,450000
+Maruti Alto,Maruti,Alto,5,50000,24.7,47.3,5,240000
+Maruti Celerio,Maruti,Celerio,5,70000,23.1,67.04,5,420000
+Renault KWID,Renault,KWID,2,10000,23.01,67.0,5,410000
+Renault KWID,Renault,KWID,5,26844,25.17,53.3,5,295000
+Maruti Wagon R,Maruti,Wagon R,7,43932,20.51,67.04,5,320000
+Hyundai Venue,Hyundai,Venue,2,14500,18.27,118.35,5,1025000
+Maruti Wagon R,Maruti,Wagon R,5,36044,26.6,58.16,5,415000
+Maruti Alto,Maruti,Alto,4,23000,23.95,67.05,5,390000
+Maruti Celerio,Maruti,Celerio,5,87187,27.62,47.0,5,399000
+Maruti Wagon R,Maruti,Wagon R,4,28763,33.54,67.04,5,400000
+Maruti Wagon R,Maruti,Wagon R,11,82000,18.9,67.1,5,275000
+Maruti Alto,Maruti,Alto,10,60000,20.92,67.1,5,225000
+Renault KWID,Renault,KWID,3,15000,23.01,67.0,5,410000
+Maruti Wagon R,Maruti,Wagon R,5,65000,26.6,58.16,5,315000
+Maruti Wagon R,Maruti,Wagon R,4,30000,33.54,67.04,5,450000
+Maruti Wagon R,Maruti,Wagon R,8,17568,18.9,67.1,5,389000
+Maruti Celerio,Maruti,Celerio,6,64000,27.62,47.0,5,350000
+Datsun RediGO,Datsun,RediGO,4,30000,22.7,53.0,5,200000
+Maruti Alto,Maruti,Alto,9,57000,19.7,46.3,5,180000
+Renault KWID,Renault,KWID,4,35017,24.04,67.0,5,385000
+Renault KWID,Renault,KWID,2,25000,23.01,67.0,5,335000
+Maruti Wagon R,Maruti,Wagon R,6,45243,18.9,67.1,5,445000
+Maruti Alto,Maruti,Alto,10,50000,20.92,67.1,5,275000
+Renault Triber,Renault,Triber,2,35000,20.0,72.0,7,550000
+Renault KWID,Renault,KWID,4,13800,23.01,67.0,5,360000
+Maruti Alto,Maruti,Alto,4,30000,23.95,67.05,5,370000
+Maruti Wagon R,Maruti,Wagon R,5,72000,21.79,67.05,5,310000
+Renault KWID,Renault,KWID,5,24668,24.04,67.0,5,345000
+Maruti Wagon R,Maruti,Wagon R,5,29989,21.79,67.05,5,445000
+Maruti Alto,Maruti,Alto,6,77000,23.95,67.05,5,245000
+Maruti Celerio,Maruti,Celerio,5,12000,23.1,67.04,5,475000
+Maruti Wagon R,Maruti,Wagon R,5,65000,18.9,67.1,5,390000
+Maruti Alto,Maruti,Alto,5,45222,30.46,47.3,5,299000
+Maruti Wagon R,Maruti,Wagon R,9,40000,18.9,67.1,5,350000
+Maruti Alto,Maruti,Alto,11,100000,19.7,46.3,5,110000
+Maruti Wagon R,Maruti,Wagon R,7,30000,20.51,67.04,5,321000
+Maruti Celerio,Maruti,Celerio,7,55000,23.1,67.04,5,425000
+Maruti Alto,Maruti,Alto,6,100000,22.74,47.3,5,250000
+Maruti Celerio,Maruti,Celerio,4,68000,30.47,58.33,5,475000
+Hyundai Venue,Hyundai,Venue,1,7066,18.15,118.35,5,1185000
+Maruti Wagon R,Maruti,Wagon R,9,60000,18.9,67.1,5,300000
+Maruti Celerio,Maruti,Celerio,6,51127,23.1,67.04,5,475000
+Maruti Wagon R,Maruti,Wagon R,8,33000,18.9,67.1,5,313000
+Maruti Alto,Maruti,Alto,5,40000,22.74,47.3,5,265000
+Maruti Alto,Maruti,Alto,18,90000,19.7,46.3,5,75000
+Maruti Alto,Maruti,Alto,3,40000,24.7,47.3,5,295000
+Maruti Celerio,Maruti,Celerio,5,20000,23.1,67.04,5,470000
+Volkswagen Polo,Volkswagen,Polo,2,9000,18.78,75.0,5,649000
+Maruti Alto,Maruti,Alto,4,2700,23.95,67.05,5,376000
+Maruti Celerio,Maruti,Celerio,2,25202,21.63,67.04,5,595000
+Maruti Wagon R,Maruti,Wagon R,9,68000,21.79,67.05,5,265000
+Maruti Wagon R,Maruti,Wagon R,9,68000,26.2,58.2,5,315000
+Maruti Celerio,Maruti,Celerio,2,15230,21.63,67.05,5,475000
+Maruti Alto,Maruti,Alto,15,121153,19.7,46.3,5,100000
+Renault KWID,Renault,KWID,2,8500,24.04,67.0,5,425000
+Maruti Celerio,Maruti,Celerio,6,35000,23.1,67.04,5,460000
+Maruti Celerio,Maruti,Celerio,5,30000,23.1,67.04,5,500000
+Maruti Wagon R,Maruti,Wagon R,8,57000,21.79,67.05,5,235000
+Maruti Celerio,Maruti,Celerio,4,15996,23.1,67.04,5,450000
+Maruti Wagon R,Maruti,Wagon R,17,48500,18.9,67.1,5,110000
+Renault KWID,Renault,KWID,2,15000,23.01,67.0,5,400000
+Maruti Wagon R,Maruti,Wagon R,5,39000,20.51,67.0,5,395000
+Maruti Alto,Maruti,Alto,5,31000,32.26,58.2,4,325000
+Maruti Celerio,Maruti,Celerio,3,20067,21.63,67.04,5,410000
+Maruti Alto,Maruti,Alto,8,13000,20.92,67.1,5,215000
+Maruti Alto,Maruti,Alto,6,52000,22.74,47.3,5,320000
+Maruti Celerio,Maruti,Celerio,4,60000,23.1,67.04,5,530000
+Renault KWID,Renault,KWID,3,35000,24.04,67.0,5,375000
+Maruti Alto,Maruti,Alto,4,100000,24.7,47.3,5,310000
+Maruti Celerio,Maruti,Celerio,6,51118,23.1,67.04,5,450000
+Datsun RediGO,Datsun,RediGO,5,38400,22.7,53.64,5,295000
+Datsun RediGO,Datsun,RediGO,5,30000,22.7,53.64,5,170000
+Maruti Celerio,Maruti,Celerio,5,22169,23.1,67.04,5,490000
+Maruti Wagon R,Maruti,Wagon R,4,70000,20.51,67.0,5,400000
+Maruti Wagon R,Maruti,Wagon R,8,30000,18.9,67.1,5,285000
+Maruti Wagon R,Maruti,Wagon R,10,20000,18.9,67.1,5,250000
+Volkswagen Polo,Volkswagen,Polo,3,9339,18.78,75.0,5,750000
+Maruti Alto,Maruti,Alto,4,46871,24.7,47.3,5,279000
+Maruti S-Presso,Maruti,S-Presso,0,5000,21.7,67.0,5,500000
+Maruti Wagon R,Maruti,Wagon R,6,55000,26.2,58.2,5,295000
+Maruti Wagon R,Maruti,Wagon R,6,35000,20.51,67.06,5,295000
+Maruti Celerio,Maruti,Celerio,5,60000,23.1,67.04,5,470000
+Maruti Alto,Maruti,Alto,6,75000,23.95,67.05,5,265000
+Maruti Alto,Maruti,Alto,3,50000,23.95,67.05,5,390000
+Maruti Wagon R,Maruti,Wagon R,5,44000,26.6,58.16,5,375000
+Maruti Alto,Maruti,Alto,5,35000,23.95,67.05,5,280000
+Renault KWID,Renault,KWID,4,57000,23.01,67.0,5,425000
+Maruti Celerio,Maruti,Celerio,7,43000,23.1,67.04,5,375000
+Datsun RediGO,Datsun,RediGO,4,21918,22.7,53.64,5,269000
+Renault KWID,Renault,KWID,3,50000,25.17,53.3,5,250000
+Maruti Alto,Maruti,Alto,4,20700,33.44,40.3,4,381000
+Maruti Wagon R,Maruti,Wagon R,5,56000,33.54,67.04,5,360000
+Maruti Wagon R,Maruti,Wagon R,11,25000,18.9,67.1,5,175000
+Renault KWID,Renault,KWID,4,30000,23.01,67.0,5,340000
+Maruti Celerio,Maruti,Celerio,6,35000,23.1,67.04,5,450000
+Maruti Wagon R,Maruti,Wagon R,3,17000,20.51,67.0,5,515000
+Maruti Alto,Maruti,Alto,8,48000,22.74,47.3,5,200000
+Maruti Wagon R,Maruti,Wagon R,17,50000,18.9,67.1,5,50000
+Maruti Wagon R,Maruti,Wagon R,4,29852,26.6,58.16,5,431000
+Maruti Wagon R,Maruti,Wagon R,8,20670,20.51,67.04,5,345000
+Datsun RediGO,Datsun,RediGO,4,18900,22.7,53.64,5,245000
+Maruti Alto,Maruti,Alto,1,5000,22.05,47.3,5,373000
+Maruti Wagon R,Maruti,Wagon R,10,120000,26.2,58.2,5,250000
+Maruti Alto,Maruti,Alto,10,33111,19.7,46.3,5,205000
+Maruti Wagon R,Maruti,Wagon R,7,60000,14.6,61.6,5,350000
+Maruti Celerio,Maruti,Celerio,5,29000,23.1,67.04,5,441000
+Maruti Celerio,Maruti,Celerio,3,20365,23.1,67.04,5,410000
+Maruti Wagon R,Maruti,Wagon R,10,66000,18.9,67.1,5,245000
+Maruti Wagon R,Maruti,Wagon R,3,17000,21.79,67.05,5,445000
+Maruti Celerio,Maruti,Celerio,4,40000,21.63,67.0,5,500000
+Renault KWID,Renault,KWID,3,21000,24.04,67.0,5,450000
+Maruti Wagon R,Maruti,Wagon R,5,120000,20.51,67.04,5,250000
+Maruti Alto,Maruti,Alto,6,35000,23.95,67.05,5,275000
+Maruti Wagon R,Maruti,Wagon R,10,50000,18.9,67.1,5,272000
+Maruti Alto,Maruti,Alto,6,60000,23.95,67.05,5,285000
+Renault KWID,Renault,KWID,3,28000,23.01,67.0,5,345000
+Maruti S-Presso,Maruti,S-Presso,2,5000,21.7,67.0,5,455000
+Maruti Wagon R,Maruti,Wagon R,10,32908,18.9,67.1,5,250000
+Maruti Alto,Maruti,Alto,9,36000,20.92,67.1,5,245000
+Maruti Alto,Maruti,Alto,3,40000,23.95,67.05,5,350000
+Renault KWID,Renault,KWID,3,35000,23.01,67.0,5,415000
+Maruti Celerio,Maruti,Celerio,5,18000,21.63,67.04,5,450000
+Maruti Alto,Maruti,Alto,8,45019,22.74,47.3,5,285000
+Hyundai Venue,Hyundai,Venue,1,6000,18.15,118.35,5,1230000
+Maruti Wagon R,Maruti,Wagon R,4,35000,20.51,67.04,5,400000
+Maruti Wagon R,Maruti,Wagon R,5,24000,20.51,67.0,5,375000
+Maruti Alto,Maruti,Alto,7,44000,22.74,47.3,5,225000
+Maruti Wagon R,Maruti,Wagon R,7,90000,26.6,58.16,5,300000
+Maruti Alto,Maruti,Alto,2,10000,23.95,67.05,5,360000
+Maruti Wagon R,Maruti,Wagon R,5,44000,20.51,67.0,5,340000
+Renault Triber,Renault,Triber,2,7100,20.0,72.0,7,710000
+Maruti Celerio,Maruti,Celerio,5,36545,23.1,67.04,5,450000
+Maruti Alto,Maruti,Alto,12,35000,19.7,46.3,5,220000
+Maruti Alto,Maruti,Alto,13,40000,19.7,46.3,5,180000
+Maruti Celerio,Maruti,Celerio,2,52000,23.1,67.04,5,400000
+Maruti Celerio,Maruti,Celerio,3,15000,21.63,67.05,5,485000
+Maruti Alto,Maruti,Alto,6,50000,22.74,47.3,5,230000
+Renault KWID,Renault,KWID,5,38000,25.17,53.3,5,375000
+Volkswagen Polo,Volkswagen,Polo,3,50000,18.78,75.0,5,725000
+Maruti Alto,Maruti,Alto,16,100000,19.7,46.3,5,100000
+Maruti Celerio,Maruti,Celerio,4,20000,31.79,58.33,5,475000
+Maruti Alto,Maruti,Alto,12,80000,19.7,46.3,5,125000
+Maruti Wagon R,Maruti,Wagon R,8,55000,26.6,58.16,5,265000
+Maruti Wagon R,Maruti,Wagon R,6,25000,20.51,67.04,5,400000
+Maruti Celerio,Maruti,Celerio,6,10000,23.1,67.04,5,410000
+Maruti Wagon R,Maruti,Wagon R,11,150821,18.9,67.1,5,160000
+Maruti Alto,Maruti,Alto,7,56641,22.05,47.3,5,185000
+Maruti Wagon R,Maruti,Wagon R,9,70000,18.9,67.1,5,210000
+Renault KWID,Renault,KWID,7,40000,25.17,53.3,5,250000
+Maruti Wagon R,Maruti,Wagon R,6,33860,20.51,67.04,5,325000
+Maruti Wagon R,Maruti,Wagon R,3,47000,20.51,67.0,5,415000
+Renault KWID,Renault,KWID,5,30000,22.3,53.26,5,375000
+Datsun redi-GO,Datsun,redi-GO,5,7001,21.7,67.05,5,325000
+Maruti Celerio,Maruti,Celerio,7,50000,23.1,67.04,5,440000
+Maruti Wagon R,Maruti,Wagon R,5,53000,33.54,67.04,5,380000
+Maruti S-Presso,Maruti,S-Presso,1,1200,21.7,67.0,5,500000
+Maruti Alto,Maruti,Alto,10,50000,20.92,67.1,5,145000
+Maruti Wagon R,Maruti,Wagon R,8,140000,26.6,58.16,5,275000
+Maruti Alto,Maruti,Alto,5,60000,23.95,67.05,5,280000
+Renault KWID,Renault,KWID,5,14000,22.3,53.26,5,370000
+Maruti Wagon R,Maruti,Wagon R,8,69000,26.2,58.2,5,290000
+Datsun RediGO,Datsun,RediGO,2,20000,22.5,67.0,5,270000
+Maruti Alto,Maruti,Alto,10,7000,19.7,46.3,5,150000
+Maruti Wagon R,Maruti,Wagon R,7,50000,20.51,67.04,5,260000
+Maruti Wagon R,Maruti,Wagon R,5,45800,21.79,67.05,5,455000
+Maruti Alto,Maruti,Alto,5,25000,22.74,47.3,5,290000
+Maruti Alto,Maruti,Alto,6,15000,22.74,47.3,5,295000
+Datsun RediGO,Datsun,RediGO,4,40000,22.7,53.64,5,280000
+Maruti Alto,Maruti,Alto,8,50000,20.92,67.1,5,210000
+Renault KWID,Renault,KWID,4,8905,25.17,53.3,5,349000
+Maruti Wagon R,Maruti,Wagon R,7,71000,26.2,58.2,5,370000
+Datsun RediGO,Datsun,RediGO,4,15000,22.7,53.64,5,250000
+Maruti Wagon R,Maruti,Wagon R,4,50000,20.51,67.04,5,315000
+Maruti Alto,Maruti,Alto,3,20000,24.7,47.3,5,280000
+Renault KWID,Renault,KWID,4,35000,24.04,67.0,5,435000
+Maruti Wagon R,Maruti,Wagon R,12,55000,18.9,67.1,5,160000
+Maruti Alto,Maruti,Alto,4,61000,33.44,40.3,4,340000
+Maruti Alto,Maruti,Alto,7,64531,23.95,67.05,5,355000
+Maruti Wagon R,Maruti,Wagon R,6,57000,18.9,67.1,5,425000
+Renault KWID,Renault,KWID,4,35000,24.04,67.0,5,405000
+Maruti Alto,Maruti,Alto,5,50000,22.74,47.3,5,250000
+Volkswagen Polo,Volkswagen,Polo,2,20000,18.78,75.0,5,550000
+Maruti Alto,Maruti,Alto,8,52000,22.74,47.3,5,236000
+Maruti Alto,Maruti,Alto,6,30000,22.74,47.3,5,230000
+Datsun RediGO,Datsun,RediGO,4,80000,22.7,53.64,5,259000
+Maruti Wagon R,Maruti,Wagon R,6,90000,20.51,67.04,5,350000
+Maruti Alto,Maruti,Alto,7,53000,23.95,67.05,5,290000
+Datsun RediGO,Datsun,RediGO,4,28100,22.7,53.64,5,270000
+Maruti Alto,Maruti,Alto,13,60000,19.7,46.3,5,91000
+Renault KWID,Renault,KWID,2,8500,23.01,67.0,5,440000
+Maruti Celerio,Maruti,Celerio,4,49600,23.1,67.04,5,390000
+Maruti Alto,Maruti,Alto,6,32900,23.95,67.1,5,350000
+Maruti Wagon R,Maruti,Wagon R,8,40000,20.51,67.04,5,385000
+Maruti Alto,Maruti,Alto,4,30000,23.95,67.05,5,360000
+Maruti Alto,Maruti,Alto,5,68000,23.95,67.05,5,325000
+Renault KWID,Renault,KWID,5,26957,25.17,53.3,5,365000
+Maruti Alto,Maruti,Alto,13,110000,19.7,46.3,5,120000
+Maruti Alto,Maruti,Alto,11,425785,23.95,67.05,5,195000
+Maruti Wagon R,Maruti,Wagon R,10,97319,18.9,67.1,5,300000
+Maruti Alto,Maruti,Alto,6,49000,22.74,47.3,5,235000
+Maruti Celerio,Maruti,Celerio,5,18540,23.1,67.04,5,429000
+Maruti Alto,Maruti,Alto,5,143000,22.74,47.3,5,170000
+Maruti Wagon R,Maruti,Wagon R,10,78562,18.9,67.1,5,260000
+Maruti Alto,Maruti,Alto,8,80000,22.74,47.3,5,250000
+Maruti Alto,Maruti,Alto,9,65535,19.7,46.3,5,275000
+Maruti Wagon R,Maruti,Wagon R,8,48000,18.9,67.1,5,325000
+Maruti Celerio,Maruti,Celerio,3,21000,23.1,67.04,5,510000
+Maruti Alto,Maruti,Alto,4,35000,24.7,47.3,5,280000
+Hyundai Venue,Hyundai,Venue,1,6500,18.27,118.35,5,949000
+Renault KWID,Renault,KWID,3,40000,24.04,67.0,5,300000
+Maruti Alto,Maruti,Alto,9,70000,20.92,67.1,5,231000
+Maruti Wagon R,Maruti,Wagon R,4,43000,26.2,58.2,5,399000
+Maruti Alto,Maruti,Alto,1,5000,22.05,47.3,5,320000
+Maruti Celerio,Maruti,Celerio,3,20000,21.63,67.0,5,585000
+Renault Triber,Renault,Triber,1,4500,20.0,71.0,7,770000
+Maruti Alto,Maruti,Alto,13,30000,19.7,46.3,5,200000
+Volkswagen Vento,Volkswagen,Vento,4,16219,17.69,108.62,5,845000
+Maruti Wagon R,Maruti,Wagon R,7,31692,20.51,67.04,5,330000
+Maruti Celerio,Maruti,Celerio,6,50000,23.1,67.04,5,350000
+Maruti Alto,Maruti,Alto,12,70000,19.7,46.3,5,130000
+Maruti Alto,Maruti,Alto,3,25000,23.95,67.05,5,385000
+Renault KWID,Renault,KWID,4,20000,25.17,53.3,5,300000
+Maruti Alto,Maruti,Alto,7,110000,20.92,67.1,5,200000
+Renault KWID,Renault,KWID,4,40000,24.04,67.0,5,350000
+Maruti Celerio,Maruti,Celerio,5,41944,23.1,67.04,5,485000
+Datsun RediGO,Datsun,RediGO,4,17731,22.7,53.64,5,270000
+Maruti Celerio,Maruti,Celerio,4,32000,23.1,67.04,5,450000
+Maruti Wagon R,Maruti,Wagon R,4,10000,20.51,67.0,5,400000
+Renault KWID,Renault,KWID,4,35000,24.04,67.0,5,350000
+Hyundai Venue,Hyundai,Venue,1,5000,18.27,118.35,5,1050000
+Maruti Celerio,Maruti,Celerio,6,57000,23.1,67.04,5,495000
+Renault KWID,Renault,KWID,3,8627,21.74,67.0,5,385000
+Maruti Alto,Maruti,Alto,8,90000,30.46,47.3,5,185000
+Maruti Wagon R,Maruti,Wagon R,9,37623,20.51,67.04,5,296000
+Maruti Wagon R,Maruti,Wagon R,6,42100,26.6,58.16,5,375000
+Maruti Alto,Maruti,Alto,6,35000,22.74,47.3,5,300000
+Renault KWID,Renault,KWID,5,46000,25.17,53.3,5,315000
+Maruti Celerio,Maruti,Celerio,5,51000,23.1,67.04,5,435000
+Maruti Wagon R,Maruti,Wagon R,6,80000,26.6,58.16,5,300000
+Volkswagen Polo,Volkswagen,Polo,2,7000,18.78,75.0,5,730000
+Maruti Alto,Maruti,Alto,9,116006,20.92,67.1,5,250000
+Maruti Wagon R,Maruti,Wagon R,8,65000,21.79,67.05,5,295000
+Renault KWID,Renault,KWID,4,25000,23.01,67.0,5,310000
+Maruti Alto,Maruti,Alto,5,2000,22.74,47.3,5,220000
+Maruti Alto,Maruti,Alto,5,31000,23.95,67.05,5,360000
+Maruti Alto,Maruti,Alto,4,23765,23.95,67.05,5,400000
+Maruti Wagon R,Maruti,Wagon R,8,34000,18.9,67.1,5,300000
+Maruti Celerio,Maruti,Celerio,7,52500,23.1,67.04,5,375000
+Maruti Alto,Maruti,Alto,10,22900,20.92,67.1,5,215000
+Maruti Celerio,Maruti,Celerio,3,20000,31.79,58.33,5,510000
+Renault KWID,Renault,KWID,3,12500,24.04,67.0,5,345000
+Maruti Celerio,Maruti,Celerio,5,48129,31.79,58.2,5,411000
+Renault Triber,Renault,Triber,2,11000,20.0,72.0,7,725000
+Maruti Wagon R,Maruti,Wagon R,4,66628,26.6,58.16,5,415000
+Maruti Wagon R,Maruti,Wagon R,10,120000,18.9,67.1,5,275000
+Maruti Alto,Maruti,Alto,8,25000,22.74,47.3,5,210000
+Renault Triber,Renault,Triber,2,15000,20.0,72.0,7,654000
+Maruti Wagon R,Maruti,Wagon R,6,64000,26.2,58.2,5,390000
+Datsun RediGO,Datsun,RediGO,3,10400,22.5,67.0,5,300000
+Maruti Alto,Maruti,Alto,4,11614,23.95,67.05,5,350000
+Renault KWID,Renault,KWID,2,23000,25.17,53.3,5,425000
+Maruti Celerio,Maruti,Celerio,5,62000,23.1,67.04,5,470000
+Maruti Celerio,Maruti,Celerio,7,40860,21.63,67.04,5,345000
+Maruti Alto,Maruti,Alto,8,95011,22.74,47.3,5,225000
+Renault KWID,Renault,KWID,1,5000,24.04,67.0,5,472000
+Maruti Alto,Maruti,Alto,4,45000,33.44,40.3,4,290000
+Maruti Alto,Maruti,Alto,10,70000,20.92,67.1,5,165000
+Maruti Celerio,Maruti,Celerio,3,42000,23.1,67.04,5,425000
+Maruti Celerio,Maruti,Celerio,4,48300,23.1,67.04,5,420000
+Maruti Wagon R,Maruti,Wagon R,5,18307,20.51,67.0,5,415000
+Maruti Wagon R,Maruti,Wagon R,14,39000,21.79,67.05,5,135000
+Maruti Alto,Maruti,Alto,7,10000,22.74,47.3,5,320000
+Maruti Celerio,Maruti,Celerio,3,15000,21.63,67.04,5,570000
+Maruti Wagon R,Maruti,Wagon R,3,27823,32.52,58.33,5,425000
+Maruti Alto,Maruti,Alto,10,59455,19.7,46.3,5,175000
+Renault KWID,Renault,KWID,5,64000,25.17,53.3,5,300000
+Maruti Alto,Maruti,Alto,9,52865,23.95,67.05,5,245000
+Maruti Wagon R,Maruti,Wagon R,4,27500,20.51,67.04,5,440000
+Maruti Alto,Maruti,Alto,3,57000,23.95,67.1,5,390000
+Maruti Alto,Maruti,Alto,6,40000,32.26,58.3,4,260000
+Datsun RediGO,Datsun,RediGO,3,15000,22.5,68.0,5,285000
+Maruti Alto,Maruti,Alto,5,40000,23.95,67.05,5,350000
+Maruti Alto,Maruti,Alto,17,110000,19.7,46.3,5,45000
+Renault KWID,Renault,KWID,5,24000,25.17,53.3,5,375000
+Maruti Alto,Maruti,Alto,15,54171,19.7,46.3,5,100000
+Renault KWID,Renault,KWID,3,17500,23.01,67.0,5,360000
+Maruti Alto,Maruti,Alto,4,35000,24.7,47.3,5,240000
+Maruti Wagon R,Maruti,Wagon R,7,39264,20.51,67.06,5,450000
+Maruti Wagon R,Maruti,Wagon R,13,80000,18.9,67.1,5,120000
+Renault KWID,Renault,KWID,2,15000,25.17,53.3,5,410000
+Renault KWID,Renault,KWID,2,10000,25.17,53.3,5,330000
+Maruti Celerio,Maruti,Celerio,7,41248,23.1,67.04,5,420000
+Hyundai Venue,Hyundai,Venue,2,11000,18.27,118.35,5,1075000
+Renault KWID,Renault,KWID,5,40500,25.17,53.3,5,310000
+Datsun RediGO,Datsun,RediGO,4,35000,22.5,67.0,5,250000
+Maruti Alto,Maruti,Alto,4,19369,23.95,67.05,5,356000
+Maruti Wagon R,Maruti,Wagon R,9,82088,18.9,67.1,5,210000
+Maruti Celerio,Maruti,Celerio,3,22000,23.1,67.04,5,450000
+Maruti Wagon R,Maruti,Wagon R,4,44000,20.51,67.04,5,410000
+Maruti Wagon R,Maruti,Wagon R,5,14000,20.51,67.04,5,440000
+Maruti Alto,Maruti,Alto,7,60000,30.46,47.3,5,260000
+Maruti Alto,Maruti,Alto,2,22987,24.7,47.3,5,335000
+Maruti Celerio,Maruti,Celerio,5,30000,23.1,67.04,5,450000
+Maruti Alto,Maruti,Alto,6,49000,22.74,47.3,5,270000
+Maruti Alto,Maruti,Alto,5,77658,33.44,40.3,4,325000
+Maruti Alto,Maruti,Alto,2,13413,23.95,67.05,5,485000
+Maruti Wagon R,Maruti,Wagon R,6,25000,26.2,58.2,5,385000
+Renault KWID,Renault,KWID,4,25000,23.01,67.0,5,330000
+Datsun RediGO,Datsun,RediGO,3,22500,22.5,67.0,5,280000
+Maruti Celerio,Maruti,Celerio,7,29000,23.1,67.04,5,465000
+Maruti Alto,Maruti,Alto,3,59000,33.44,40.3,4,300000
+Maruti Alto,Maruti,Alto,6,40000,23.95,67.05,5,260000
+Maruti Wagon R,Maruti,Wagon R,2,8401,21.79,67.05,5,545000
+Maruti Alto,Maruti,Alto,10,68000,20.92,67.1,5,265000
+Maruti Alto,Maruti,Alto,3,30112,33.44,40.3,4,360000
+Renault KWID,Renault,KWID,5,47000,25.17,53.3,5,225000
+Maruti Wagon R,Maruti,Wagon R,9,65000,18.9,67.1,5,276000
+Maruti Celerio,Maruti,Celerio,3,15000,23.1,67.04,5,316000
+Renault KWID,Renault,KWID,5,15000,25.17,53.3,5,299000
+Renault KWID,Renault,KWID,5,26500,25.17,53.3,5,360000
+Maruti Alto,Maruti,Alto,6,35000,23.95,67.05,5,260000
+Renault KWID,Renault,KWID,4,26233,25.17,53.3,5,345000
+Maruti Celerio,Maruti,Celerio,6,43000,31.79,58.2,5,435000
+Maruti Alto,Maruti,Alto,5,30000,23.95,67.05,5,300000
+Maruti Wagon R,Maruti,Wagon R,11,55000,18.9,67.1,5,250000
+Maruti Alto,Maruti,Alto,13,40000,19.7,46.3,5,100000
+Renault KWID,Renault,KWID,4,13000,25.17,53.3,5,290000
+Maruti Alto,Maruti,Alto,8,40000,20.92,67.1,5,230000
+Maruti Alto,Maruti,Alto,3,32875,23.95,67.05,5,360000
+Maruti Alto,Maruti,Alto,12,90000,19.7,46.3,5,115000
+Maruti Alto,Maruti,Alto,11,9100,23.95,67.05,5,210000
+Maruti Alto,Maruti,Alto,4,40000,23.95,67.05,5,310000
+Maruti Celerio,Maruti,Celerio,7,25000,23.1,67.04,5,298000
+Maruti Alto,Maruti,Alto,13,50000,19.7,46.3,5,110000
+Maruti Celerio,Maruti,Celerio,2,7000,23.1,67.04,5,510000
+Maruti Wagon R,Maruti,Wagon R,3,13500,20.51,67.04,5,460000
+Maruti Alto,Maruti,Alto,4,26000,33.44,40.3,4,300000
+Renault KWID,Renault,KWID,4,49000,25.17,53.3,5,298000
+Maruti Celerio,Maruti,Celerio,4,50000,23.1,67.04,5,410000
+Volkswagen Polo,Volkswagen,Polo,9,58000,18.78,75.0,5,319000
+Maruti Alto,Maruti,Alto,15,72145,19.7,46.3,5,65000
+Maruti Wagon R,Maruti,Wagon R,5,24000,21.79,67.05,5,450000
+Renault KWID,Renault,KWID,4,60000,24.04,67.0,5,380000
+Maruti Alto,Maruti,Alto,6,22000,22.74,47.3,5,285000
+Maruti Alto,Maruti,Alto,7,30000,22.74,47.3,5,200000
+Maruti Celerio,Maruti,Celerio,5,71000,27.62,47.0,5,499000
+Maruti Wagon R,Maruti,Wagon R,11,65000,18.9,67.1,5,110000
+Hyundai Venue,Hyundai,Venue,2,21000,18.15,118.35,5,1199000
+Maruti Celerio,Maruti,Celerio,4,28960,23.1,67.04,5,475000
+Renault KWID,Renault,KWID,4,12000,23.01,67.0,5,385000
+Maruti Alto,Maruti,Alto,3,31243,33.44,40.3,4,299000
+Maruti Alto,Maruti,Alto,11,70000,19.7,46.3,5,135000
+Maruti Alto,Maruti,Alto,9,90000,20.92,67.1,5,230000
+Maruti Alto,Maruti,Alto,15,56000,19.7,46.3,5,175000
+Datsun RediGO,Datsun,RediGO,3,18628,22.5,67.0,5,270000
+Maruti Alto,Maruti,Alto,15,70000,19.7,46.3,5,100000
+Maruti Celerio,Maruti,Celerio,7,29000,23.1,67.04,5,449000
+Maruti Wagon R,Maruti,Wagon R,9,54000,18.9,67.1,5,290000
+Maruti Alto,Maruti,Alto,11,100000,19.7,46.3,5,180000
+Maruti Alto,Maruti,Alto,7,20000,23.95,67.05,5,270000
+Maruti Celerio,Maruti,Celerio,6,76400,23.1,67.04,5,435000
+Maruti Alto,Maruti,Alto,8,35000,22.74,47.3,5,185000
+Maruti Alto,Maruti,Alto,5,28000,23.95,67.05,5,360000
+Maruti Alto,Maruti,Alto,4,50000,24.7,47.3,5,290000
+Maruti Celerio,Maruti,Celerio,3,39472,21.63,67.04,5,464000
+Maruti Celerio,Maruti,Celerio,4,17210,23.1,67.04,5,468000
+Maruti Alto,Maruti,Alto,15,100785,19.7,46.3,5,65000
+Renault KWID,Renault,KWID,4,15000,23.01,67.0,5,370000
+Maruti Celerio,Maruti,Celerio,5,67000,23.1,67.04,5,415000
+Maruti Alto,Maruti,Alto,1,5000,22.05,47.3,5,400000
+Maruti Alto,Maruti,Alto,3,58000,33.44,40.3,4,350000
+Maruti Celerio,Maruti,Celerio,4,60000,23.1,67.04,5,400000
+Maruti Alto,Maruti,Alto,6,15200,22.74,47.3,5,260000
+Maruti Alto,Maruti,Alto,15,80000,19.7,46.3,5,100000
+Maruti Alto,Maruti,Alto,8,8333,20.92,67.1,5,270000
+Renault KWID,Renault,KWID,4,18000,25.17,53.3,5,350000
+Maruti Alto,Maruti,Alto,6,16000,23.95,67.05,5,388000
+Maruti Wagon R,Maruti,Wagon R,9,40000,18.9,67.1,5,240000
+Maruti Wagon R,Maruti,Wagon R,9,58700,21.79,67.05,5,355000
+Maruti Alto,Maruti,Alto,1,7000,22.05,47.3,5,365000
+Maruti Alto,Maruti,Alto,3,25000,24.7,47.3,5,300000
+Maruti Wagon R,Maruti,Wagon R,9,50000,18.9,67.1,5,230000
+Maruti Alto,Maruti,Alto,8,60000,20.92,67.1,5,210000
+Maruti Wagon R,Maruti,Wagon R,8,67370,26.6,58.16,5,270000
+Maruti Wagon R,Maruti,Wagon R,7,65000,20.51,67.04,5,350000
+Maruti Wagon R,Maruti,Wagon R,9,35000,18.9,67.1,5,300000
+Hyundai Venue,Hyundai,Venue,2,6500,18.15,118.35,5,1100000
+Maruti Baleno,Maruti,Baleno,4,60000,21.1,100.5,5,650000
+Maruti Wagon R,Maruti,Wagon R,3,77000,26.6,58.16,5,485000
+Maruti Alto,Maruti,Alto,12,86240,19.7,46.3,5,210000
+Maruti Alto,Maruti,Alto,1,5000,22.05,47.3,5,290000
+Maruti Wagon R,Maruti,Wagon R,15,37000,21.79,67.05,5,135000
+Maruti Celerio,Maruti,Celerio,5,39500,27.62,47.0,5,430000
+Maruti Wagon R,Maruti,Wagon R,16,96000,18.9,67.1,5,185000
+Maruti Alto,Maruti,Alto,15,75000,19.7,46.3,5,105000
+Maruti Alto,Maruti,Alto,2,8000,23.95,67.05,5,415000
+Maruti Wagon R,Maruti,Wagon R,2,22000,26.6,58.16,5,517000
+Maruti Celerio,Maruti,Celerio,6,110000,23.1,67.04,5,240000
+Maruti Wagon R,Maruti,Wagon R,5,50000,26.6,58.16,5,320000
+Maruti Alto,Maruti,Alto,14,69000,19.7,46.3,5,178000
+Maruti Wagon R,Maruti,Wagon R,6,40000,20.51,67.04,5,400000
+Maruti Alto,Maruti,Alto,1,10000,22.05,47.3,5,350000
+Maruti Celerio,Maruti,Celerio,4,54202,23.1,67.04,5,435000
+Maruti Alto,Maruti,Alto,10,72000,20.92,67.1,5,260000
+Maruti Alto,Maruti,Alto,6,39949,23.95,67.05,5,375000
+Maruti Alto,Maruti,Alto,10,19600,19.7,46.3,5,190000
+Maruti Wagon R,Maruti,Wagon R,8,63000,21.79,67.05,5,330000
+Renault KWID,Renault,KWID,4,36628,23.01,67.0,5,420000
+Maruti Alto,Maruti,Alto,15,110000,19.7,46.3,5,125000
+Maruti Celerio,Maruti,Celerio,6,40000,21.63,67.04,5,335000
+Maruti Wagon R,Maruti,Wagon R,4,16000,20.51,67.04,5,425000
+Maruti Wagon R,Maruti,Wagon R,6,65000,21.79,67.05,5,550000
+Volkswagen Polo,Volkswagen,Polo,2,45000,17.74,75.1,5,650000
+Renault KWID,Renault,KWID,3,16000,24.04,67.0,5,465000
+Renault KWID,Renault,KWID,1,10000,23.01,67.0,5,470000
+Maruti Alto,Maruti,Alto,9,52000,24.7,47.3,5,195000
+Maruti Celerio,Maruti,Celerio,6,52000,23.1,67.04,5,450000
+Renault KWID,Renault,KWID,5,14183,22.3,53.26,5,395000
+Maruti Wagon R,Maruti,Wagon R,10,90000,26.2,58.2,5,280000
+Maruti Wagon R,Maruti,Wagon R,12,26000,18.9,67.1,5,150000
+Maruti Wagon R,Maruti,Wagon R,7,70000,20.51,67.04,5,325000
+Renault KWID,Renault,KWID,3,25000,25.17,53.3,5,330000
+Maruti Wagon R,Maruti,Wagon R,6,25000,20.51,67.06,5,375000
+Maruti Alto,Maruti,Alto,9,25000,20.92,67.1,5,270000
+Maruti Alto,Maruti,Alto,7,19000,22.74,47.3,5,325000
+Maruti Wagon R,Maruti,Wagon R,3,40000,20.51,67.04,5,430000
+Maruti Celerio,Maruti,Celerio,5,25000,23.1,67.04,5,480000
+Maruti Alto,Maruti,Alto,12,80000,19.7,46.3,5,215000
+Maruti Celerio,Maruti,Celerio,5,40775,23.1,67.04,5,445000
+Maruti S-Presso,Maruti,S-Presso,1,5000,21.7,67.0,5,550000
+Maruti Wagon R,Maruti,Wagon R,7,67532,26.6,58.16,5,315000
+Maruti Celerio,Maruti,Celerio,5,100000,23.1,67.04,5,400000
+Maruti Alto,Maruti,Alto,8,32000,23.95,67.05,5,240000
+Maruti Alto,Maruti,Alto,14,60000,19.7,46.3,5,80000
+Maruti Wagon R,Maruti,Wagon R,3,57000,32.52,58.33,5,435000
+Maruti Alto,Maruti,Alto,5,6800,24.7,47.3,5,300000
+Maruti Alto,Maruti,Alto,10,32000,20.92,67.1,5,200000
+Maruti Alto,Maruti,Alto,4,20920,24.7,47.3,5,310000
+Maruti Celerio,Maruti,Celerio,4,20000,23.1,67.04,5,450000
+Maruti Celerio,Maruti,Celerio,7,39800,23.1,67.04,5,375000
+Maruti Alto,Maruti,Alto,16,91000,19.7,46.3,5,125000
+Maruti Alto,Maruti,Alto,4,9000,23.95,67.05,5,335000
+Maruti Celerio,Maruti,Celerio,7,26000,23.1,67.04,5,460000
+Renault KWID,Renault,KWID,5,40087,23.01,67.0,5,310000
+Renault KWID,Renault,KWID,3,50000,25.17,53.3,5,300000
+Maruti Celerio,Maruti,Celerio,5,27521,23.1,67.04,5,455000
+Maruti Wagon R,Maruti,Wagon R,5,29000,20.51,67.0,5,365000
+Maruti Celerio,Maruti,Celerio,6,15000,23.1,67.04,5,475000
+Maruti Celerio,Maruti,Celerio,2,50000,31.79,58.33,5,390000
+Maruti Celerio,Maruti,Celerio,6,50000,23.1,67.04,5,400000
+Maruti Baleno,Maruti,Baleno,4,27232,21.1,100.5,5,695000
+Maruti Alto,Maruti,Alto,7,60000,22.74,47.3,5,265000
+Maruti Alto,Maruti,Alto,11,70000,19.7,46.3,5,245000
+Maruti Alto,Maruti,Alto,6,70000,23.95,67.1,5,300000
+Maruti Celerio,Maruti,Celerio,6,40000,23.1,67.04,5,400000
+Maruti Alto,Maruti,Alto,7,30000,23.95,67.05,5,250000
+Maruti Alto,Maruti,Alto,11,80000,20.92,67.1,5,160000
+Maruti Wagon R,Maruti,Wagon R,4,66807,26.2,58.2,5,410000
+Datsun RediGO,Datsun,RediGO,5,64968,22.7,53.64,5,250000
+Maruti Wagon R,Maruti,Wagon R,10,70000,18.9,67.1,5,185000
+Maruti Wagon R,Maruti,Wagon R,11,80000,18.9,67.1,5,163000
+Maruti Celerio,Maruti,Celerio,2,23400,21.63,67.05,5,515000
+Maruti Alto,Maruti,Alto,3,35112,24.7,47.3,5,359000
+Maruti Alto,Maruti,Alto,8,90000,20.92,67.1,5,220000
+Maruti Celerio,Maruti,Celerio,4,31000,21.63,67.04,5,499000
+Maruti Wagon R,Maruti,Wagon R,16,50000,18.9,67.1,5,75000
+Renault KWID,Renault,KWID,5,23500,25.17,53.3,5,375000
+Maruti Alto,Maruti,Alto,11,40000,19.7,46.3,5,265000
+Maruti Alto,Maruti,Alto,5,78950,30.46,47.3,5,299000
+Renault KWID,Renault,KWID,6,30000,25.17,53.3,5,315000
+Maruti Celerio,Maruti,Celerio,3,13000,23.1,67.04,5,415000
+Maruti Wagon R,Maruti,Wagon R,13,80000,18.9,67.1,5,150000
+Maruti Alto,Maruti,Alto,3,7377,23.95,67.1,5,399000
+Renault KWID,Renault,KWID,4,12500,24.04,67.0,5,445000
+Renault KWID,Renault,KWID,3,28000,23.01,67.0,5,420000
+Maruti Celerio,Maruti,Celerio,3,47000,21.63,67.05,5,525000
+Maruti Wagon R,Maruti,Wagon R,8,76221,26.2,58.2,5,315000
+Ford Ecosport,Ford,Ecosport,6,40000,18.88,123.37,5,635000
+Maruti Alto,Maruti,Alto,5,35000,23.95,67.05,5,300000
+Maruti Alto,Maruti,Alto,3,15000,24.7,47.3,5,250000
+Maruti Celerio,Maruti,Celerio,5,29330,23.1,67.04,5,451000
+Maruti Alto,Maruti,Alto,8,50000,22.74,47.3,5,280000
+Maruti Alto,Maruti,Alto,9,15000,20.92,67.1,5,220000
+Datsun RediGO,Datsun,RediGO,5,11169,22.7,53.64,5,250000
+Renault KWID,Renault,KWID,4,15335,23.01,67.0,5,380000
+Renault KWID,Renault,KWID,4,25000,23.01,67.0,5,390000
+Maruti Wagon R,Maruti,Wagon R,5,20012,21.79,67.05,5,400000
+Maruti Celerio,Maruti,Celerio,4,15000,21.63,67.05,5,540000
+Maruti Wagon R,Maruti,Wagon R,10,40000,18.9,67.1,5,350000
+Renault KWID,Renault,KWID,5,39920,25.17,53.3,5,335000
+Maruti Alto,Maruti,Alto,5,67100,22.74,47.3,5,275000
+Maruti Celerio,Maruti,Celerio,2,5000,23.1,67.04,5,440000
+Maruti Alto,Maruti,Alto,12,90000,19.7,46.3,5,110000
+Maruti Alto,Maruti,Alto,9,70000,22.74,47.3,5,150000
+Maruti Wagon R,Maruti,Wagon R,5,74844,33.54,67.04,5,390000
+Maruti Celerio,Maruti,Celerio,4,44000,23.1,67.04,5,410000
+Maruti Alto,Maruti,Alto,4,150000,24.7,47.3,5,320000
+Renault KWID,Renault,KWID,4,20000,24.04,67.0,5,375000
+Renault KWID,Renault,KWID,2,13000,23.01,67.0,5,445000
+Renault KWID,Renault,KWID,2,18000,23.01,67.0,5,470000
+Maruti Alto,Maruti,Alto,6,25000,23.95,67.05,5,360000
+Maruti Wagon R,Maruti,Wagon R,3,4500,20.51,67.04,5,480000
+Maruti Wagon R,Maruti,Wagon R,8,67000,14.6,61.6,5,275000
+Renault KWID,Renault,KWID,4,10000,25.17,53.3,5,280000
+Maruti Wagon R,Maruti,Wagon R,15,60000,18.9,67.1,5,80000
+Maruti Wagon R,Maruti,Wagon R,7,83521,32.52,58.33,5,335000
+Maruti Wagon R,Maruti,Wagon R,6,50000,26.6,58.16,5,450000
+Renault KWID,Renault,KWID,3,30000,23.01,67.0,5,410000
+Renault KWID,Renault,KWID,5,28000,25.17,53.3,5,285000
+Maruti Wagon R,Maruti,Wagon R,8,64000,26.2,58.2,5,255000
+Maruti Wagon R,Maruti,Wagon R,9,70000,18.9,67.1,5,220000
+Maruti Wagon R,Maruti,Wagon R,7,68000,20.51,67.04,5,250000
+Renault KWID,Renault,KWID,6,35000,25.17,53.3,5,265000
+Maruti Celerio,Maruti,Celerio,4,50000,23.1,67.04,5,500000
+Maruti Wagon R,Maruti,Wagon R,3,45000,26.6,58.16,5,420000
+Maruti Wagon R,Maruti,Wagon R,6,21321,20.51,67.04,5,386000
+Maruti Alto,Maruti,Alto,10,41000,20.92,67.1,5,215000
+Maruti Celerio,Maruti,Celerio,6,60000,23.1,67.04,5,385000
+Maruti Alto,Maruti,Alto,7,44000,30.46,47.3,5,275000
+Renault KWID,Renault,KWID,4,29847,24.04,67.0,5,485000
+Maruti Alto,Maruti,Alto,4,12706,24.7,47.3,5,313000
+Renault KWID,Renault,KWID,2,2700,25.17,53.3,5,395000
