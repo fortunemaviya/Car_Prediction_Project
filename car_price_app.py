@@ -168,26 +168,54 @@ with st.expander("⚠️ Important Notes"):
 st.markdown("---")
 st.markdown(
     """
-    <div style="text-align: center; padding: 15px; background-color: #f8f9fa; border-radius: 12px; margin-top: 30px;">
-        <h4 style="color:#333;">🚗 Built with <span style="color:#FF4B4B;">Streamlit</span> 🚀 | 
-        <span style="color:#1E90FF;">Car Price Prediction Model</span></h4>
-        <p style="margin: 8px 0; font-size: 16px;">Created by <strong>Fortune Maviya</strong> ✨</p>
-        
-        <a href="https://github.com/fortunemaviya" target="_blank">
-            <button style="background-color:#24292f; color:white; border:none; padding:10px 18px; 
-            margin:5px; border-radius:8px; font-size:14px; cursor:pointer;">
-            🐙 GitHub
-            </button>
-        </a>
-        
-        <a href="https://www.linkedin.com/in/fortune-maviya" target="_blank">
-            <button style="background-color:#0A66C2; color:white; border:none; padding:10px 18px; 
-            margin:5px; border-radius:8px; font-size:14px; cursor:pointer;">
-            💼 LinkedIn
-            </button>
-        </a>
+    <style>
+        .footer {
+            text-align: center;
+            color: #6c757d;
+            font-size: 0.85rem;
+            padding: 15px 0;
+            border-top: 1px solid #eaeaea;
+            margin-top: 30px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .footer-line {
+            margin: 4px 0;
+            line-height: 1.4;
+        }
+        .footer-link {
+            color: #4a90e2 !important;
+            text-decoration: none;
+            transition: all 0.2s ease;
+            margin: 0 5px;
+        }
+        .footer-link:hover {
+            color: #2a6496 !important;
+            text-decoration: underline;
+        }
+        .footer-icon {
+            font-size: 0.9em;
+            vertical-align: middle;
+            margin: 0 2px;
+        }
+    </style>
+    
+    <div class="footer">
+        <div class="footer-line">
+            Built with Streamlit <span class="footer-icon">🚀</span> | Car Price Prediction Model
+        </div>
+        <div class="footer-line">
+            Created by <span class="footer-icon">👨‍💻</span> Fortune Maviya
+        </div>
+        <div class="footer-line">
+            <a class="footer-link" href="https://github.com/fortunemaviya" target="_blank">
+                GitHub
+            </a> | 
+            <a class="footer-link" href="https://www.linkedin.com/in/fortune-maviya" target="_blank">
+                LinkedIn
+            </a>
+        </div>
     </div>
-    """,
+    """, 
     unsafe_allow_html=True
 )
 
