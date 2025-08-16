@@ -214,7 +214,7 @@ st.markdown(
             <a class="footer-link" href="https://github.com/fortunemaviya" target="_blank">
                 <span class="footer-icon">🐙</span> GitHub
             </a> | 
-            <a class="footer-link" href="https://www.linkedin.com/in/fortune-maviya-5a4a691b0/" target="_blank">
+            <a class="footer-link" href="www.linkedin.com/in/fortune-maviya-56b3b3a5" target="_blank">
                 <span class="footer-icon">💼</span> LinkedIn
             </a>
         </div>
