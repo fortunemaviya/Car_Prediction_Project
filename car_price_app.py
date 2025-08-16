@@ -177,46 +177,76 @@ st.markdown(
             border-top: 1px solid #eaeaea;
             margin-top: 30px;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(to right, #f8f9fa, #ffffff, #f8f9fa);
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+        }
+        .footer-content {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 10px;
         }
         .footer-line {
-            margin: 4px 0;
-            line-height: 1.4;
+            margin: 6px 0;
+            line-height: 1.5;
         }
         .footer-link {
-            color: #4a90e2 !important;
+            color: #4a76d0 !important;
             text-decoration: none;
-            transition: all 0.2s ease;
-            margin: 0 5px;
+            transition: all 0.3s ease;
+            margin: 0 8px;
+            font-weight: 500;
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
         }
         .footer-link:hover {
-            color: #2a6496 !important;
+            color: #2a5590 !important;
             text-decoration: underline;
+            transform: translateY(-1px);
         }
         .footer-icon {
-            font-size: 0.9em;
+            font-size: 1.1em;
             vertical-align: middle;
-            margin: 0 2px;
         }
         .creator-name {
-            font-weight: 500;
-            color: #444;
+            font-weight: 600;
+            color: #3d5a80;
+            letter-spacing: 0.5px;
+        }
+        .tech-stack {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+        }
+        .highlight {
+            background: linear-gradient(to right, #4a76d0, #3d5a80);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            font-weight: 600;
         }
     </style>
     
     <div class="footer">
-        <div class="footer-line">
-            Built with Streamlit <span class="footer-icon">🚀</span> | Car Price Prediction Model
-        </div>
-        <div class="footer-line">
-            Created by <span class="creator-name">Fortune Maviya</span> <span class="footer-icon">👨‍💻</span>
-        </div>
-        <div class="footer-line">
-            <a class="footer-link" href="https://github.com/fortunemaviya" target="_blank">
-                <span class="footer-icon">🐙</span> GitHub
-            </a> | 
-            <a class="footer-link" href="www.linkedin.com/in/fortune-maviya-56b3b3a5" target="_blank">
-                <span class="footer-icon">💼</span> LinkedIn
-            </a>
+        <div class="footer-content">
+            <div class="footer-line">
+                <span class="tech-stack">
+                    Built with <span class="highlight">Streamlit</span> <span class="footer-icon">🚀</span> | 
+                    Car Price Prediction Model
+                </span>
+            </div>
+            <div class="footer-line">
+                Created by <span class="creator-name">Fortune Maviya</span> <span class="footer-icon">👨‍💻</span>
+            </div>
+            <div class="footer-line">
+                <a class="footer-link" href="https://github.com/fortunemaviya" target="_blank">
+                    <span class="footer-icon">🐙</span> GitHub
+                </a>
+                <span style="margin: 0 5px">•</span>
+                <a class="footer-link" href="https://www.linkedin.com/in/fortune-maviya-56b3b3a5" target="_blank">
+                    <span class="footer-icon">💼</span> LinkedIn
+                </a>
+            </div>
         </div>
     </div>
     """, 
