@@ -197,6 +197,10 @@ st.markdown(
             vertical-align: middle;
             margin: 0 2px;
         }
+        .creator-name {
+            font-weight: 500;
+            color: #444;
+        }
     </style>
     
     <div class="footer">
@@ -204,14 +208,14 @@ st.markdown(
             Built with Streamlit <span class="footer-icon">🚀</span> | Car Price Prediction Model
         </div>
         <div class="footer-line">
-            Created by <span class="footer-icon">👨‍💻</span> Fortune Maviya
+            Created by <span class="creator-name">Fortune Maviya</span> <span class="footer-icon">👨‍💻</span>
         </div>
         <div class="footer-line">
             <a class="footer-link" href="https://github.com/fortunemaviya" target="_blank">
-                GitHub
+                <span class="footer-icon">🐙</span> GitHub
             </a> | 
-            <a class="footer-link" href="https://www.linkedin.com/in/fortune-maviya" target="_blank">
-                LinkedIn
+            <a class="footer-link" href="https://www.linkedin.com/in/fortune-maviya-5a4a691b0/" target="_blank">
+                <span class="footer-icon">💼</span> LinkedIn
             </a>
         </div>
     </div>
