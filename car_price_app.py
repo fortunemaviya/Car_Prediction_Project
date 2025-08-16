@@ -171,6 +171,11 @@ st.markdown(
     <div style="text-align: center; color: #666; font-size: 0.8em;">
         Built with Streamlit 🚀 | Car Price Prediction Model
     </div>
+     <div style="text-align: center; color: #666; font-size: 0.8em;">
+        Created by  🚀 | Fortune Maviya
+        github: https://github.com/fortunemaviya
+        linkedin: https://www.linkedin.com/in/fortune-maviya
+    </div>
     """, 
     unsafe_allow_html=True
 )
