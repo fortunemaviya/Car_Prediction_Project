@@ -168,15 +168,26 @@ with st.expander("⚠️ Important Notes"):
 st.markdown("---")
 st.markdown(
     """
-    <div style="text-align: center; color: #666; font-size: 0.8em;">
-        Built with Streamlit 🚀 | Car Price Prediction Model
+    <div style="text-align: center; padding: 15px; background-color: #f8f9fa; border-radius: 12px; margin-top: 30px;">
+        <h4 style="color:#333;">🚗 Built with <span style="color:#FF4B4B;">Streamlit</span> 🚀 | 
+        <span style="color:#1E90FF;">Car Price Prediction Model</span></h4>
+        <p style="margin: 8px 0; font-size: 16px;">Created by <strong>Fortune Maviya</strong> ✨</p>
+        
+        <a href="https://github.com/fortunemaviya" target="_blank">
+            <button style="background-color:#24292f; color:white; border:none; padding:10px 18px; 
+            margin:5px; border-radius:8px; font-size:14px; cursor:pointer;">
+            🐙 GitHub
+            </button>
+        </a>
+        
+        <a href="https://www.linkedin.com/in/fortune-maviya" target="_blank">
+            <button style="background-color:#0A66C2; color:white; border:none; padding:10px 18px; 
+            margin:5px; border-radius:8px; font-size:14px; cursor:pointer;">
+            💼 LinkedIn
+            </button>
+        </a>
     </div>
-     <div style="text-align: center; color: #666; font-size: 0.8em;">
-        Created by  🚀 | Fortune Maviya
-        github: https://github.com/fortunemaviya
-        linkedin: https://www.linkedin.com/in/fortune-maviya
-    </div>
-    """, 
+    """,
     unsafe_allow_html=True
 )
 
